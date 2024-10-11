@@ -1,10 +1,10 @@
 {
     "title":"Documentation",
     "subTitle":"Unlimited Advancement; Build for Perseus Study",
-    "avatarUrl":"/favicon.png",
+    "avatarUrl":"/Perseus-Study-Documentation/favicon.png",
     "GMEEK_VERSION":"last",
     
-    "homeUrl":"https://doc.perseusstudy.us.kg",
+    "homeUrl":"https://PerseusInLSC.github.io/Perseus-Study-Documentation",
     "startSite":"10/07/2024",
     
     "i18n":"EN",
@@ -14,6 +14,6 @@
     "dayTheme":"light",
     "nightTheme":"dark-blue",
     
-    "script":"<script src='/assets/ArticleTOC.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
-    "allHead":"<script src='/assets/RonanTheme.js'></script><script src='/assets/GmeekVercount.js'></script><script src='/assets/ChangeCopyright.js'></script>"
+    "script":"<script src='/Perseus-Study-Documentation/assets/ArticleTOC.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
+    "allHead":"<script src='/Perseus-Study-Documentation/assets/RonanTheme.js'></script><script src='/Perseus-Study-Documentation/assets/GmeekVercount.js'></script><script src='/Perseus-Study-Documentation/assets/ChangeCopyright.js'></script>"
 }
