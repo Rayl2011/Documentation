@@ -1,5 +1,5 @@
 [10 seconds Mental Timer Challenge](https://script.google.com/a/macros/lsc.hk/s/AKfycbywa7P1yzVcLIEldZe_FsdkuEk9tL7KWqtWzChc-4hZAW1yuT-2jrD0XQpYEx6mXu5r/exec?authuser=0) 
-> If you perfer self-hosted version (Reverse Engineered by Perseus): [10 seconds Mental Timer Challenge](/assets/files/10stimer.html)
+> If you perfer self-hosted version (Reverse Engineered by Perseus): [10 seconds Mental Timer Challenge](/assets/files/10sTimer.html)
 
 > [!NOTE]
 > The creator of the timer challenge is Mr. Terry Lam, a teacher who teaches Math in La Salle College.
