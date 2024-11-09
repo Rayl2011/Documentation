@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r&#43;8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&#43;Mono">
+    <title>Hello, world!</title>
+  </head>
+  <body class="p-3 mb-2 bg-dark text-white">
+    <div class="text-center">
+        <h1 >10 seconds Mental Timer Challenge</h1>
+        <h3>Level <span style="color: yellow; font-weight: bold;" id="levelshow">1</span></h3>
+        <h2>(correct to the nearest <span style="color: yellow; font-weight: bold;" id="errorshow">1</span> <span style="color: yellow; ">second</span>)</h2>
+    </div>
+    <div class="text-center">
+        <span id="timer" style="font-size: 200pt; font-family: 'Roboto Mono';">0.000</span>
+    </div>
+    <div >
+        <button type="button" id="start" onclick="startgame()" class="btn btn-primary">Start</button>
+        <button type="button" id="stop" onclick="stopgame()" class="btn btn-danger" style="display: none;">Stop</button>
+        <button type="button" id="nextlv" onclick="nextlv()" class="btn btn-success" style="display: none;">Next Level</button>
+        <button type="button" id="replay" onclick="resetlv()" class="btn btn-warning" style="display: none;">Replay</button>
+    </div>    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <Script>
+        var start = 0;
+        var opa = 1.0;
+        var timer;
+        var level = 1;
+        var error =[1.0, 0.5, 0.2, 0.1, 0.05, 0.02, 0.01, 0.005, 0.002];
+        
+        function startgame(){
+            start = Date.now();
+            setTimeout(updateTime,1);
+            setTimeout(fadeout,50);
+            document.getElementById("stop").style.display="block";
+            document.getElementById("start").style.display="none";
+        }
+        function stopgame(){
+            var stop = Date.now();
+            clearTimeout(timer);
+            var marks = stop - start;
+            document.getElementById("timer").innerHTML = marks / 1000;
+            document.getElementById("timer").style.opacity=1;
+            
+            if (marks < 10000+error[level -1]*500 && marks > 10000-error[level -1]*500){
+                document.getElementById("timer").style.color= "green";
+                document.getElementById("stop").style.display="none";
+                document.getElementById("nextlv").style.display="block";
+                
+            } else {
+                document.getElementById("timer").style.color= "red";
+                document.getElementById("stop").style.display="none";
+                document.getElementById("replay").style.display="block";
+                level = level-1;
+            }
+            
+            google.script.run.record(level, marks/1000);
+        }
+        function updateTime(){
+            var showtime = (Date.now() - start)/1000
+            document.getElementById("timer").innerHTML = showtime.toFixed(3);
+            timer = setTimeout(updateTime,1);
+        }
+        function fadeout(){
+            opa = opa - 0.01;
+            document.getElementById("timer").style.opacity= opa;
+            if (opa <= 0.00){
+                clearTimeout(timer);
+                document.getElementById("timer").innerHTML = "?";
+            } else setTimeout(fadeout,50);
+        }
+        function nextlv(){
+            level = level +1;
+            opa = 1.0;
+            start = 0;
+            document.getElementById("levelshow").innerHTML = level;
+            document.getElementById("errorshow").innerHTML = error[level-1];
+            document.getElementById("start").style.display="block";
+            document.getElementById("nextlv").style.display="none";
+            document.getElementById("timer").style.color= "white";
+            document.getElementById("timer").innerHTML ="0.000";
+        }
+        function resetlv(){
+            level = 1;
+            opa = 1.0;
+            start = 0;
+            document.getElementById("levelshow").innerHTML = level;
+            document.getElementById("errorshow").innerHTML = error[level-1];
+            document.getElementById("start").style.display="block";
+            document.getElementById("replay").style.display="none";
+            document.getElementById("timer").style.color= "white";
+            document.getElementById("timer").innerHTML ="0.000";
+        }
+
+    </Script>
+  </body>
+</html>
