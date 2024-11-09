@@ -72,13 +72,6 @@ document.addEventListener('DOMContentLoaded', function() {
             min-width: unset;
         }
         
-        .SideNav-item:hover {
-	    opacity: 1;
-            border-radius: 10px;
-            transform: scale(1.02);
-            box-shadow: 0 0 5px rgba(unset, unset, unset, 0.5);
-        }
-        
         .SideNav-item {
             transition: 0.1s;
         }
