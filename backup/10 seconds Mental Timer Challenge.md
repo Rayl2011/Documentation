@@ -5,5 +5,6 @@
 > The creator of the timer challenge is Mr. Terry Lam, a teacher who teaches Math in La Salle College.
 > The purpose of this program is to teach students about Errors in Measurements.
 > His Github page: https://github.com/khtlamlsc (Comfirmed) & https://github.com/khtlam (Assume to be)
+> One of Mr. Terry Lam's interview: [Lasallian Festival 2022 · The Interview - excerpt](https://github.com/user-attachments/assets/1ffe8b0d-ac30-461c-8753-08a4c369881c)
 > His usual Profile Pic:
 > ![khtlamlsc](https://github.com/user-attachments/assets/03a01e34-49f7-4a72-8053-c0535d2ac143)
