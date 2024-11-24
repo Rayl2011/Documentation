@@ -117,6 +117,20 @@
    
     </details>
 </details>
+<details><summary>ICT</summary>
+
+- <details><summary>Senior Secondary Books (ICT for iGeneration)</summary>
+
+    - Information Processing (Compulsory A1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/55346938/c20cc7/ict-for-igeneration-information-processing-compulsory-a1pdf.html)
+    - Information Processing (Compulsory A2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56650854/433b88/ict-for-igeneration-information-processing-compulsory-a2.html)
+    - Computer System Fundamentals (Compulsory B)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56652811/42ef0b/ict-for-igeneration-computer-system-fundamentals-compulsory-b.html)
+    - Internet and its Applications (Compulsory C1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56662863/39668f/ict-for-igeneration-internet-and-its-applications-compulsory-c1.html)
+    - Internet and its Applications (Compulsory C2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56665596/43afc7/ict-for-igeneration-internet-and-its-applications-compulsory-c2.html)
+    - Computational Thinking and Programming (Compulsory D1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56668299/6a50b4/ict-for-igeneration-computational-thinking-and-programming-compulsory-d1.html)
+    - Computational Thinking and Programming (Compulsory D2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56671699/9c4eab/ict-for-igeneration-computational-thinking-and-programming-compulsory-d2.html)
+    - Social Implications (Compulsory E)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56692729/aeb7e2/ict-for-igeneration-social-implications-compulsory-e.html)
+    </details>
+</details>
 <details><summary>History</summary>
 
 - <details><summary>Publisher's Study Notes</summary>
