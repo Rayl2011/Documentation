@@ -91,7 +91,7 @@
 
 - <details><summary>M1/M2 Mathematics</summary>
 
-    - [Herman Yeung YouTube 免費筆記下載 目錄](https://hermanutube.blogspot.com/2016/01/youtube-pdf.html)
+    - [Herman Yeung YouTube 免費筆記下載 目錄](https://hermanutube.blogspot.com/2016/01/youtube-pdf.html) (A Youtube Channel that Mr. Terry Lam Recommends)
     - [HKEDB - 數學百子櫃系列（二）M1](https://github.com/user-attachments/files/17880212/cabinet.2.pdf)
     - [HKEDB - 數學百子櫃系列（二）M2](https://github.com/user-attachments/files/17880213/cabinet.3.pdf)
     - [HKEDB - Explanatory Notes to Senior Secondary Mathematics Curriculum - Module 1 (Calculus and Statistics)](https://github.com/user-attachments/files/17880219/m1_notes_e.pdf)
