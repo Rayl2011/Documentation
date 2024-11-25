@@ -1,23 +1,23 @@
 > [!NOTE]
-> Z-library: [https://z-lib.fm](https://z-lib.fm), Anna's Archive: [https://annas-archive.org](https://annas-archive.org)
+> Z-library: [https://z-lib.fm](https://z-lib.fm), Anna's Archive: [https://annas-archive.se](https://annas-archive.se)
 
 <details><summary>Chinese</summary>
 
 - <details><summary>23 - 24 中一級暑期習作：閱讀報告(電子書)</summary>
 
-    - [日日是好日](https://annas-archive.org/md5/69a0b503e03d16aa244d5f78938bb649)
-    - [地球末日拯救隊](https://annas-archive.org/md5/d4443077e6f30b3b276a55ff842159f0)
-    - [我們的夢想──不斷尋夢的律師](https://annas-archive.org/md5/102309cb2ffec4323a4f36df8528418d)
-    - [我們的夢想──毋忘初心的科學家](https://annas-archive.org/md5/0c96f5b0b385875b2ad34f713f36ca97)
-    - [我們的夢想──初出茅廬的狀元醫生](https://annas-archive.org/md5/bf9509f57f09db01fc9c30188ddadf95)
-    - [我們的夢想──常存感恩的聲樂家](https://annas-archive.org/md5/029998981811fad750a50f5642c4bb4a)
-    - [我們的夢想──電競運動的革命家](https://annas-archive.org/md5/e68678b5cb32eb5e0d156ed7e3e86722)
-    - [那年老師教曉我的事](https://annas-archive.org/md5/d19f54999294c08e0c2954cd71628d82)
-    - [阿濃陪你讀唐詩](https://annas-archive.org/md5/3ee915ec54e010c682e09d625c15f2b1)
-    - [美言一百](https://annas-archive.org/md5/f7d82abcc1d894d9e27c15d3688520f8)
-    - [剪髮](https://annas-archive.org/md5/4fbd6c198f5c8e33b6118ceed9f3b81d)
-    - [霓虹黯色：香港街道視覺文化記錄](https://annas-archive.org/md5/7181d555a6ede9e1fcddec9f3f3b2b25)
-    - [爆籃街霸王](https://annas-archive.org/md5/6c73fcfce785bad5bdea5562f7f80eaa)
+    - [日日是好日](https://annas-archive.se/md5/69a0b503e03d16aa244d5f78938bb649)
+    - [地球末日拯救隊](https://annas-archive.se/md5/d4443077e6f30b3b276a55ff842159f0)
+    - [我們的夢想──不斷尋夢的律師](https://annas-archive.se/md5/102309cb2ffec4323a4f36df8528418d)
+    - [我們的夢想──毋忘初心的科學家](https://annas-archive.se/md5/0c96f5b0b385875b2ad34f713f36ca97)
+    - [我們的夢想──初出茅廬的狀元醫生](https://annas-archive.se/md5/bf9509f57f09db01fc9c30188ddadf95)
+    - [我們的夢想──常存感恩的聲樂家](https://annas-archive.se/md5/029998981811fad750a50f5642c4bb4a)
+    - [我們的夢想──電競運動的革命家](https://annas-archive.se/md5/e68678b5cb32eb5e0d156ed7e3e86722)
+    - [那年老師教曉我的事](https://annas-archive.se/md5/d19f54999294c08e0c2954cd71628d82)
+    - [阿濃陪你讀唐詩](https://annas-archive.se/md5/3ee915ec54e010c682e09d625c15f2b1)
+    - [美言一百](https://annas-archive.se/md5/f7d82abcc1d894d9e27c15d3688520f8)
+    - [剪髮](https://annas-archive.se/md5/4fbd6c198f5c8e33b6118ceed9f3b81d)
+    - [霓虹黯色：香港街道視覺文化記錄](https://annas-archive.se/md5/7181d555a6ede9e1fcddec9f3f3b2b25)
+    - [爆籃街霸王](https://annas-archive.se/md5/6c73fcfce785bad5bdea5562f7f80eaa)
 
 </details>
 </details>
