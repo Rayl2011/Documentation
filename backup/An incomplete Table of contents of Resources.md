@@ -131,13 +131,13 @@
     - [Jing Kung New 21st Century Chemistry 1C (Metals)](https://annas-archive.org/md5/5e0a904b16b13cf469e90bccd839b230)
     - [Jing Kung New 21st Century Chemistry 2A (Acids and Bases)](https://annas-archive.org/md5/1ce862761bf2a0aac1fa091d0194b633)
     - [Jing Kung New 21st Century Chemistry 2B (Redox Reactions, Chemical Cells and Electrolysis)](https://annas-archive.org/md5/7d3204fa48ed3aa2f4ca9d20065c9def)
-    - [Jing Kung New 21st century chemistry 2C (Microscopic World II)](https://annas-archive.org/md5/ce5ff271c80c095717722c0011d329cc)
-    - [Jing Kung New 21st century chemistry 3A (Fossil Fuels and Carbon Compounds)](https://annas-archive.org/md5/75f99ab7e8f28c551e3eace4c7e563e1)
-    - [Jing Kung New 21st century chemistry 3B (Chemistry of Carbon Compounds)](https://annas-archive.org/md5/30b3d702c499c2055dcc87cfd4cdda18)
-    - [Jing Kung New 21st century chemistry 3C (Chemical Reactions and Energy)](https://annas-archive.org/md5/3dd489b79dd17344cc59a6cb62e5a749)
-    - [Jing Kung New 21st century chemistry 4A (Rate of Reaction)](https://annas-archive.org/md5/4355825d7009801680993d97b7f4d24b)
-    - [Jing Kung New 21st century chemistry 4B (Chemical Equilibrium)](https://annas-archive.org/md5/a034562520e35c2513fa5b14bf99fcb4)
-    - [Jing Kung New 21st century chemistry 5 (Patterns in the Chemical World)](https://annas-archive.org/md5/a7b93329a4d20a0afdf08f90d5b38bb5)
+    - [Jing Kung New 21st Century Chemistry 2C (Microscopic World II)](https://annas-archive.org/md5/ce5ff271c80c095717722c0011d329cc)
+    - [Jing Kung New 21st Century Chemistry 3A (Fossil Fuels and Carbon Compounds)](https://annas-archive.org/md5/75f99ab7e8f28c551e3eace4c7e563e1)
+    - [Jing Kung New 21st Century Chemistry 3B (Chemistry of Carbon Compounds)](https://annas-archive.org/md5/30b3d702c499c2055dcc87cfd4cdda18)
+    - [Jing Kung New 21st Century Chemistry 3C (Chemical Reactions and Energy)](https://annas-archive.org/md5/3dd489b79dd17344cc59a6cb62e5a749)
+    - [Jing Kung New 21st Century Chemistry 4A (Rate of Reaction)](https://annas-archive.org/md5/4355825d7009801680993d97b7f4d24b)
+    - [Jing Kung New 21st Century Chemistry 4B (Chemical Equilibrium)](https://annas-archive.org/md5/a034562520e35c2513fa5b14bf99fcb4)
+    - [Jing Kung New 21st Century Chemistry 5 (Patterns in the Chemical World)](https://annas-archive.org/md5/a7b93329a4d20a0afdf08f90d5b38bb5)
 
     </details>
 - <details><summary>HKDSE Resources</summary>
