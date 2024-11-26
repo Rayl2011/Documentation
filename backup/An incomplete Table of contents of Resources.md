@@ -22,61 +22,6 @@
 </details>
 </details>
 
-<details><summary>Chinese History</summary>
-
-- <details><summary>HKDSE Resources</summary>
-
-    - [Chinese_History_Framework_Bilingual_r.pdf](https://github.com/user-attachments/files/17880161/Chinese_History_Framework_Bilingual_r.pdf)
-    - [HKDSE_SCHist_map.pdf](https://github.com/user-attachments/files/17880163/HKDSE_SCHist_map.pdf)
-
-    </details>
-
-- <details><summary>電子書</summary>
-
-    - 現代初中中國歷史（中一）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42264140/576158/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%80.html)
-    - 現代初中中國歷史（中二）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/41268157/032d03/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%BA%8C.html)
-    - 現代初中中國歷史（中三）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42828773/299871/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%89.html)
-
-    </details>
-
-- <details><summary>F.1-3 作業答案</summary>
-
-    - 現代初中中國歷史（中一）：[Chinese History F1 Workbook Answers.pdf](https://github.com/user-attachments/files/17786732/Chinese.History.F1.Workbook.Answers.pdf)
-    - 現代初中中國歷史（中二）：[Chinese History F2 Workbook Answers.pdf](https://github.com/user-attachments/files/17786733/Chinese.History.F2.Workbook.Answers.pdf)
-    - 現代初中中國歷史（中三）：[Chinese History F3 Workbook Answers.pdf](https://github.com/user-attachments/files/17786734/Chinese.History.F3.Workbook.Answers.pdf)
-
-    </details>
-
-- <details><summary>F.1-3 Publisher's Notes</summary>
-
-    - <details><summary>Modified Notes (common_notes)</summary>
-
-        - [common_notes_F1_S_Mod.pdf](https://github.com/user-attachments/files/17786762/common_notes_F1_S_Mod.pdf)
-        - [common_notes_F2_S_Mod.pdf](https://github.com/user-attachments/files/17786799/common_notes_F2_S_Mod.pdf)
-        - [common_notes_F3_S_Mod.pdf](https://github.com/user-attachments/files/17786812/common_notes_F3_S_Mod.pdf)
-        - [F.1_Notes_Mod_For_Final_Exam.pdf](https://github.com/user-attachments/files/17786823/F.1_Notes_Mod_For_Final_Exam.pdf)
-        - [F.2 UT Chinese History Rev. WS.pdf](https://github.com/user-attachments/files/17786851/F.2.UT.Chinese.History.Rev.WS.pdf)
-        - [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/17786852/F.2_Notes_Mod_For_MYE_Prediction.pdf)
-
-        </details>
-
-    - <details><summary>DOCXs (studentnote)</summary>
-
-        - [studentnote_1.docx](https://github.com/user-attachments/files/17786875/studentnote_1.docx)
-        - [studentnote_2.docx](https://github.com/user-attachments/files/17786877/studentnote_2.docx)
-        - [studentnote_310.docx](https://github.com/user-attachments/files/17786878/studentnote_310.docx)
-
-        </details>
-
-    - <details><summary>PDFs (studentnote)</summary>
-
-        - [studentnote_1.pdf](https://github.com/user-attachments/files/17786883/studentnote_1.pdf)
-        - [studentnote_2.pdf](https://github.com/user-attachments/files/17786890/studentnote_2.pdf)
-        - [studentnote_310.pdf](https://github.com/user-attachments/files/17786892/studentnote_310.pdf)
-
-        </details>
-
-</details>
 <details><summary>Mathematics</summary>
 
 - <details><summary>HKDSE Resources</summary>
@@ -170,6 +115,62 @@
     - Module D: Computational Thinking and Programming (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56989444/8b41e0/modern-senior-secondary-information-and-communication-technology-module-d-computational-thinking-an.html)
     - Module E: Social Implications (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56992033/a99fe5/modern-senior-secondary-information-and-communication-technology-module-e-social-implications-comp.html)
     </details>
+</details>
+
+<details><summary>Chinese History</summary>
+
+- <details><summary>HKDSE Resources</summary>
+
+    - [Chinese_History_Framework_Bilingual_r.pdf](https://github.com/user-attachments/files/17880161/Chinese_History_Framework_Bilingual_r.pdf)
+    - [HKDSE_SCHist_map.pdf](https://github.com/user-attachments/files/17880163/HKDSE_SCHist_map.pdf)
+
+    </details>
+
+- <details><summary>電子書</summary>
+
+    - 現代初中中國歷史（中一）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42264140/576158/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%80.html)
+    - 現代初中中國歷史（中二）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/41268157/032d03/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%BA%8C.html)
+    - 現代初中中國歷史（中三）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42828773/299871/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%89.html)
+
+    </details>
+
+- <details><summary>F.1-3 作業答案</summary>
+
+    - 現代初中中國歷史（中一）：[Chinese History F1 Workbook Answers.pdf](https://github.com/user-attachments/files/17786732/Chinese.History.F1.Workbook.Answers.pdf)
+    - 現代初中中國歷史（中二）：[Chinese History F2 Workbook Answers.pdf](https://github.com/user-attachments/files/17786733/Chinese.History.F2.Workbook.Answers.pdf)
+    - 現代初中中國歷史（中三）：[Chinese History F3 Workbook Answers.pdf](https://github.com/user-attachments/files/17786734/Chinese.History.F3.Workbook.Answers.pdf)
+
+    </details>
+
+- <details><summary>F.1-3 Publisher's Notes</summary>
+
+    - <details><summary>Modified Notes (common_notes)</summary>
+
+        - [common_notes_F1_S_Mod.pdf](https://github.com/user-attachments/files/17786762/common_notes_F1_S_Mod.pdf)
+        - [common_notes_F2_S_Mod.pdf](https://github.com/user-attachments/files/17786799/common_notes_F2_S_Mod.pdf)
+        - [common_notes_F3_S_Mod.pdf](https://github.com/user-attachments/files/17786812/common_notes_F3_S_Mod.pdf)
+        - [F.1_Notes_Mod_For_Final_Exam.pdf](https://github.com/user-attachments/files/17786823/F.1_Notes_Mod_For_Final_Exam.pdf)
+        - [F.2 UT Chinese History Rev. WS.pdf](https://github.com/user-attachments/files/17786851/F.2.UT.Chinese.History.Rev.WS.pdf)
+        - [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/17786852/F.2_Notes_Mod_For_MYE_Prediction.pdf)
+
+        </details>
+
+    - <details><summary>DOCXs (studentnote)</summary>
+
+        - [studentnote_1.docx](https://github.com/user-attachments/files/17786875/studentnote_1.docx)
+        - [studentnote_2.docx](https://github.com/user-attachments/files/17786877/studentnote_2.docx)
+        - [studentnote_310.docx](https://github.com/user-attachments/files/17786878/studentnote_310.docx)
+
+        </details>
+
+    - <details><summary>PDFs (studentnote)</summary>
+
+        - [studentnote_1.pdf](https://github.com/user-attachments/files/17786883/studentnote_1.pdf)
+        - [studentnote_2.pdf](https://github.com/user-attachments/files/17786890/studentnote_2.pdf)
+        - [studentnote_310.pdf](https://github.com/user-attachments/files/17786892/studentnote_310.pdf)
+
+        </details>
+
 </details>
 <details><summary>History</summary>
 
