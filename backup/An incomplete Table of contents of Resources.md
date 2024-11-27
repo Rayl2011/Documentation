@@ -194,3 +194,7 @@
     - [HN3B_T12_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880144/HN3B_T12_SN_ST.Fill.in.the.Blanks.pdf)
     </details>
 </details>
+<details><summary>RE</summary>
+
+- [Shalom Textbook.pdf](https://github.com/user-attachments/files/17927366/Shalom.Texbook.pdf)
+</details>
