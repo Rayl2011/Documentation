@@ -3,6 +3,10 @@
 
 US.KG 提供免费的域名，并且可以托管到 Cloudflare，本篇文章说明了如何注册 US.KG 的域名并解析 DNS 到 Cloudflare。
 
+## 0. 視頻指引 Video Guide made by Ray
+
+【0基础制作网站教程 - 注册免费网域.us.kg并用github制作一个网站（gmeek）】 https://www.bilibili.com/video/BV1xm21YhEhK/?share_source=copy_web&vd_source=f29584b8b977f548eb0fef55b4d93f96
+
 ## 1. 打开 US.KG 的网站
 打开链接 [https://nic.us.kg/](https://nic.us.kg/) 后，点击左下角的蓝色按钮`REGISTER A NEW DOMAIN`（注册新域名），会跳转到新页面
 建议启用网站翻译，
