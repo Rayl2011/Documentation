@@ -113,6 +113,27 @@
 
     </details>
 
+- <details><summary>Digital Resources Overview (HKDSE Mathematics in Action)</summary>
+
+    - [Book 4A - Chapter 01 Quadratic Equations in One Unknown (I) - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A01_DigiRes_overview_E.pdf)
+    - [Book 4A - Chapter 02 Quadratic Equations in One Unknown (II) - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A02_DigiRes_overview_E.pdf)
+    - [Book 4A - Chapter 03 Functions and Graphs - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A03_DigiRes_overview_E.pdf)
+    - [Book 4A - Chapter 04 Equations of Straight Lines - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A04_DigiRes_overview_E.pdf)
+    - [Book 4A - Chapter 05 More about Polynomials - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A05_DigiRes_overview_E.pdf)
+    - [Book 4B - Chapter 06 Exponential Functions - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4B06_DigiRes_overview_E.pdf)
+    - [Book 4B - Chapter 07 Logarithmic Functions - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4B07_DigiRes_overview_E.pdf)
+    - [Book 4B - Chapter 08 More about Equations - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4B08_DigiRes_overview_E.pdf)
+    - [Book 4B - Chapter 09 Variations - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4B09_DigiRes_overview_E.pdf)
+    - [Book 4B - Chapter 10 More about Trigonometry - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4B10_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 01 Basic Properties of Circles - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A01_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 02 Tangents to Circles - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A02_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 03 Inequalities - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A03_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 04 Linear Programming - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A04_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 05 Applications of Trigonometry in 2-dimensional Problems - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A05_DigiRes_overview_E.pdf)
+    - [Book 5A - Chapter 06 Applications of Trigonometry in 3-dimensional Problems - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A06_DigiRes_overview_E.pdf)
+
+    </details>
+
 - <details><summary>HKDSE Resources</summary>
 
     - [!中小學數學教師所需的數學知識 (Cabinet 14).pdf](https://github.com/user-attachments/files/17880189/Cabinet.14.pdf)
