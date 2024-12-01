@@ -21,18 +21,7 @@
 
     </details>
 </details>
-<details><summary>English</summary>
 
-- <details><summary>English Interactive E-Book (Oxford English Forward)</summary>
-
-    - Oxford English Forward Book 1A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74343484/34d3e1/oxford-english-forward-book-1a.html)
-    - Oxford English Forward Book 1B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74344023/549b9b/oxford-english-forward-book-1b.html)
-    - Oxford English Forward Book 2A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74308670/2aa756/oxford-english-forward-book-2a.html)
-    - Oxford English Forward Book 2B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74338366/bf70e9/oxford-english-forward-book-2b.html)
-    - Oxford English Forward Book 3A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74339748/973f26/oxford-english-forward-book-3a.html)
-    - Oxford English Forward Book 3B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74341672/69567d/oxford-english-forward-book-3b.html)
-    </details>
-</details>
 <details><summary>Mathematics</summary>
 
 - <details><summary>5-Minute Lecture (Junior Secondary Mathematics in Action)</summary>
