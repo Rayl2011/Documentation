@@ -19,9 +19,26 @@
     - [霓虹黯色：香港街道視覺文化記錄](https://annas-archive.org/md5/7181d555a6ede9e1fcddec9f3f3b2b25)
     - [爆籃街霸王](https://annas-archive.org/md5/6c73fcfce785bad5bdea5562f7f80eaa)
 
+    </details>
 </details>
-</details>
+<details><summary>English</summary>
 
+- <details><summary>English Interactive E-Book (Oxford English Forward)</summary>
+
+    - Oxford English Forward Book 1A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74343484/34d3e1/oxford-english-forward-book-1a.html)
+    - Oxford English Forward Book 1B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74344023/549b9b/oxford-english-forward-book-1b.html)
+    - Oxford English Forward Book 2A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74308670/2aa756/oxford-english-forward-book-2a.html)
+    - Oxford English Forward Book 2B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74338366/bf70e9/oxford-english-forward-book-2b.html)
+    - Oxford English Forward Book 3A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74339748/973f26/oxford-english-forward-book-3a.html)
+    - Oxford English Forward Book 3B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74341672/69567d/oxford-english-forward-book-3b.html)
+    </details>
+- <details><summary>Junior Oxford Advanced Listening</summary>
+
+    - Junior Oxford Advanced Listening Book 1：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74354423/afbb44/junior-oxford-advanced-listening-book-1.html)
+    - Junior Oxford Advanced Listening Book 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355260/34ace6/junior-oxford-advanced-listening-book-2.html)
+    - Junior Oxford Advanced Listening Book 3：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355912/9069ce/junior-oxford-advanced-listening-book-3.html)
+    </details>
+</details>
 <details><summary>Mathematics</summary>
 
 - <details><summary>Textbook Answers</summary>
@@ -123,10 +140,10 @@
             - [Book 1A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_01)
             - [Book 1A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_02)
             - [Book 1A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_03)
+            - [Book 1A Chapter 01: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_04)
             </details>
         - <details><summary>Chapter 2</summary>
 
-            - [Book 1A Chapter 01: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_04)
             - [Book 1A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_01)
             - [Book 1A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_02)
             - [Book 1A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_03)
@@ -486,6 +503,16 @@
 </details>
 <details><summary>Science (+ Phy, Chem, Bio)</summary>
 
+- <details><summary>Science Textbook</summary>
+
+    - Aristo Science for the New Century Book 1A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74219424/34e18e/aristo-science-for-the-new-century-book-1a.html)
+    - Aristo Science for the New Century Book 1B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74219988/95abe2/aristo-science-for-the-new-century-book-1b.html)
+    - Aristo Science for the New Century Book 2A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74217528/c57710/aristo-science-for-the-new-century-book-2a.html)
+    - Aristo Science for the New Century Book 2B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74218951/ae34c5/aristo-science-for-the-new-century-book-2b.html)
+    - Aristo Science for the New Century Book 3A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74222963/88965f/aristo-science-for-the-new-century-book-3a.html)
+    - Aristo Science for the New Century Book 3B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74226518/51328a/aristo-science-for-the-new-century-book-3b.html)
+    - Aristo Science for the New Century Book 3C：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74225639/fac198/aristo-science-for-the-new-century-book-3c.html)
+    </details>
 - <details><summary>Science Workbook Answers</summary>
 
     - [Aristo Science for the New Century Assignment Book 2A Unit 7 Answers](https://www.scribd.com/document/799093601/Aristo-Science-for-the-New-Century-Assignment-Book-2A-Unit-7-Answers)
