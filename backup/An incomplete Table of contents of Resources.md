@@ -32,12 +32,6 @@
     - Oxford English Forward Book 3A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74339748/973f26/oxford-english-forward-book-3a.html)
     - Oxford English Forward Book 3B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74341672/69567d/oxford-english-forward-book-3b.html)
     </details>
-- <details><summary>Junior Oxford Advanced Listening</summary>
-
-    - Junior Oxford Advanced Listening Book 1：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74354423/afbb44/junior-oxford-advanced-listening-book-1.html)
-    - Junior Oxford Advanced Listening Book 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355260/34ace6/junior-oxford-advanced-listening-book-2.html)
-    - Junior Oxford Advanced Listening Book 3：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355912/9069ce/junior-oxford-advanced-listening-book-3.html)
-    </details>
 </details>
 <details><summary>Mathematics</summary>
 
