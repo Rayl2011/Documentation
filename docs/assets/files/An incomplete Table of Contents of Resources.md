@@ -567,6 +567,14 @@
 </details>
 <details><summary>ICT</summary>
 
+- <details><summary>Junior Secondary Books</summary>
+
+    - The New Era of ICT - Google Drive for Project Management：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56955085/6a41a5/the-new-era-of-ict-google-drive-for-project-management.html)
+    - ICT for iGeneration - Computer Systems：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56958421/2a8171/ict-for-igeneration-computer-systems-f1f3.html)
+    - The New Era of ICT - App Development - App Inventor 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56961152/543349/the-new-era-of-ict-app-development-app-inventor-2.html)
+    - ICT for iGeneration - Computer Networks：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56963837/44ef0e/ict-for-igeneration-computer-networks.html)
+    - ICT for iGeneration - AI and Python：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56967948/6cb1b7/ict-for-igeneration-ai-and-python.html)
+    </details>
 - <details><summary>Senior Secondary Books (ICT for iGeneration)</summary>
 
     - Information Processing (Compulsory A1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/55346938/c20cc7/ict-for-igeneration-information-processing-compulsory-a1pdf.html)
