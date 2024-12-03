@@ -687,3 +687,11 @@
 - 新編生活普通話 中二：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74492318/b9f64b/%E6%96%B0%E7%B7%A8%E7%94%9F%E6%B4%BB%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%B8%AD-%E4%BA%8C.html)
 - 新編生活普通話 中‍三：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74493221/b8fece/%E6%96%B0%E7%B7%A8%E7%94%9F%E6%B4%BB%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%B8%AD-%E4%B8%89.html)
 </details>
+<details><summary>Music</summary>
+
+- <details><summary>Magic Music Kingdom</summary>
+
+    - [Magic Music Kingdom "Cheat" (Proof-of-Concept)](https://forms.gle/qrLnWgsgmJACK6HD8)
+
+    </details>
+</details>
