@@ -24,290 +24,361 @@
 
 <details><summary>Mathematics</summary>
 
-- <details><summary>5-Minute Lecture (Junior Secondary Mathematics in Action)</summary>
+- <details><summary>5-Minute Lecture</summary>
 
-    - <details><summary>Book 1A</summary>
+    - <details><summary>Junior Secondary Mathematics in Action</summary>
 
-        - <details><summary>Chapter 1</summary>
+        - <details><summary>Book 1A</summary>
 
-            - [Book 1A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_01)
-            - [Book 1A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_02)
-            - [Book 1A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_03)
-            - [Book 1A Chapter 01: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_04)
+            - <details><summary>Chapter 1</summary>
+
+                - [Book 1A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_01)
+                - [Book 1A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_02)
+                - [Book 1A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_03)
+                - [Book 1A Chapter 01: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_5min_04)
+                </details>
+            - <details><summary>Chapter 2</summary>
+
+                - [Book 1A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_01)
+                - [Book 1A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_02)
+                - [Book 1A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_03)
+                - [Book 1A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_04)
+                - [Book 1A Chapter 02: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_05)
+                - [Book 1A Chapter 02: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_06)
+                </details>
+            - <details><summary>Chapter 3</summary>
+
+                - [Book 1A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_01)
+                - [Book 1A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_02)
+                - [Book 1A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_03)
+                - [Book 1A Chapter 03: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_04)
+                </details>
+            - <details><summary>Chapter 4</summary>
+
+                - [Book 1A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_01)
+                - [Book 1A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_02)
+                - [Book 1A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_03)
+                </details>
+            - <details><summary>Chapter 5</summary>
+
+                - [Book 1A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_01)
+                - [Book 1A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_02)
+                - [Book 1A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_03)
+                - [Book 1A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_04)
+                - [Book 1A Chapter 05: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_05)
+                - [Book 1A Chapter 05: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_06)
+                - [Book 1A Chapter 05: 5-Minute Lecture 07](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_07)
+                </details>
+            - <details><summary>Chapter 6</summary>
+
+                - [Book 1A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_01)
+                - [Book 1A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_02)
+                - [Book 1A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_03)
+                - [Book 1A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_04)
+                </details>
             </details>
-        - <details><summary>Chapter 2</summary>
+        - <details><summary>Book 1B</summary>
 
-            - [Book 1A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_01)
-            - [Book 1A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_02)
-            - [Book 1A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_03)
-            - [Book 1A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_04)
-            - [Book 1A Chapter 02: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_05)
-            - [Book 1A Chapter 02: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_5min_06)
+            - <details><summary>Chapter 7</summary>
+
+                - [Book 1B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_01)
+                - [Book 1B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_02)
+                - [Book 1B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_03)
+                - [Book 1B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_04)
+                - [Book 1B Chapter 07: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_05)
+                </details>
+            - <details><summary>Chapter 8</summary>
+
+                - [Book 1B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_01)
+                - [Book 1B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_02)
+                - [Book 1B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_03)
+                - [Book 1B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_04)
+                </details>
+            - <details><summary>Chapter 9</summary>
+
+                - [Book 1B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_01)
+                - [Book 1B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_02)
+                - [Book 1B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_03)
+                </details>
+            - <details><summary>Chapter 10</summary>
+
+                - [Book 1B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_01)
+                - [Book 1B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_02)
+                - [Book 1B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_03)
+                - [Book 1B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_04)
+                </details>
+            - <details><summary>Chapter 11</summary>
+
+                - [Book 1B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_01)
+                - [Book 1B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_02)
+                - [Book 1B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_03)
+                </details>
+            - <details><summary>Chapter 12</summary>
+
+                - [Book 1B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_01)
+                - [Book 1B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_02)
+                - [Book 1B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_03)
+                - [Book 1B Chapter 12: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_04)
+                </details>
             </details>
-        - <details><summary>Chapter 3</summary>
+        - <details><summary>Book 2A</summary>
 
-            - [Book 1A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_01)
-            - [Book 1A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_02)
-            - [Book 1A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_03)
-            - [Book 1A Chapter 03: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_5min_04)
+            - <details><summary>Chapter 1</summary>
+
+                - [Book 2A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_01)
+                - [Book 2A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_02)
+                - [Book 2A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_03)
+                </details>
+            - <details><summary>Chapter 2</summary>
+
+                - [Book 2A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_01)
+                - [Book 2A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_02)
+                - [Book 2A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_03)
+                - [Book 2A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_04)
+                - [Book 2A Chapter 02: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_05)
+                - [Book 2A Chapter 02: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_06)
+                </details>
+            - <details><summary>Chapter 3</summary>
+
+                - [Book 2A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_01)
+                - [Book 2A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_02)
+                - [Book 2A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_03)
+                </details>
+            - <details><summary>Chapter 4</summary>
+
+                - [Book 2A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_01)
+                - [Book 2A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_02)
+                - [Book 2A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_03)
+                - [Book 2A Chapter 04: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_04)
+                - [Book 2A Chapter 04: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_05)
+                - [Book 2A Chapter 04: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_06)
+                </details>
+            - <details><summary>Chapter 5</summary>
+
+                - [Book 2A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_01)
+                - [Book 2A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_02)
+                - [Book 2A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_03)
+                - [Book 2A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_04)
+                </details>
+            - <details><summary>Chapter 6</summary>
+
+                - [Book 2A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_01)
+                - [Book 2A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_02)
+                - [Book 2A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_03)
+                - [Book 2A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_04)
+                - [Book 2A Chapter 06: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_05)
+                </details>
             </details>
-        - <details><summary>Chapter 4</summary>
+        - <details><summary>Book 2B</summary>
 
-            - [Book 1A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_01)
-            - [Book 1A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_02)
-            - [Book 1A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_5min_03)
+            - <details><summary>Chapter 7</summary>
+
+                - [Book 2B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_01)
+                - [Book 2B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_02)
+                - [Book 2B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_03)
+                - [Book 2B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_04)
+                </details>
+            - <details><summary>Chapter 8</summary>
+
+                - [Book 2B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_01)
+                - [Book 2B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_02)
+                - [Book 2B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_03)
+                - [Book 2B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_04)
+                </details>
+            - <details><summary>Chapter 9</summary>
+
+                - [Book 2B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_01)
+                - [Book 2B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_02)
+                - [Book 2B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_03)
+                - [Book 2B Chapter 09: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_04)
+                - [Book 2B Chapter 09: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_05)
+                - [Book 2B Chapter 09: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_06)
+                </details>
+            - <details><summary>Chapter 10</summary>
+
+                - [Book 2B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_01)
+                - [Book 2B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_02)
+                - [Book 2B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_03)
+                - [Book 2B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_04)
+                - [Book 2B Chapter 10: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_05)
+                - [Book 2B Chapter 10: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_06)
+                </details>
+            - <details><summary>Chapter 11</summary>
+
+                - [Book 2B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_01)
+                - [Book 2B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_02)
+                - [Book 2B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_03)
+                </details>
+            - <details><summary>Chapter 12</summary>
+
+                - [Book 2B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_01)
+                - [Book 2B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_02)
+                - [Book 2B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_03)
+                - [Book 2B Chapter 12: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_04)
+                </details>
             </details>
-        - <details><summary>Chapter 5</summary>
+        - <details><summary>Book 3A</summary>
 
-            - [Book 1A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_01)
-            - [Book 1A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_02)
-            - [Book 1A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_03)
-            - [Book 1A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_04)
-            - [Book 1A Chapter 05: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_05)
-            - [Book 1A Chapter 05: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_06)
-            - [Book 1A Chapter 05: 5-Minute Lecture 07](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_5min_07)
+            - <details><summary>Chapter 1</summary>
+
+                - [Book 3A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_01)
+                - [Book 3A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_02)
+                - [Book 3A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_03)
+                </details>
+            - <details><summary>Chapter 2</summary>
+
+                - [Book 3A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_01)
+                - [Book 3A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_02)
+                - [Book 3A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_03)
+                - [Book 3A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_04)
+                </details>
+            - <details><summary>Chapter 3</summary>
+
+                - [Book 3A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_01)
+                - [Book 3A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_02)
+                - [Book 3A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_03)
+                </details>
+            - <details><summary>Chapter 4</summary>
+
+                - [Book 3A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_01)
+                - [Book 3A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_02)
+                - [Book 3A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_03)
+                - [Book 3A Chapter 04: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_04)
+                - [Book 3A Chapter 04: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_05)
+                </details>
+            - <details><summary>Chapter 5</summary>
+
+                - [Book 3A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_01)
+                - [Book 3A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_02)
+                - [Book 3A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_03)
+                - [Book 3A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_04)
+                - [Book 3A Chapter 05: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_05)
+                </details>
+            - <details><summary>Chapter 6</summary>
+
+                - [Book 3A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_01)
+                - [Book 3A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_02)
+                - [Book 3A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_03)
+                - [Book 3A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_04)
+                </details>
             </details>
-        - <details><summary>Chapter 6</summary>
+        - <details><summary>Book 3B</summary>
 
-            - [Book 1A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_01)
-            - [Book 1A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_02)
-            - [Book 1A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_03)
-            - [Book 1A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_5min_04)
+            - <details><summary>Chapter 7</summary>
+
+                - [Book 3B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_01)
+                - [Book 3B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_02)
+                - [Book 3B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_03)
+                - [Book 3B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_04)
+                - [Book 3B Chapter 07: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_05)
+                </details>
+            - <details><summary>Chapter 8</summary>
+
+                - [Book 3B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_01)
+                - [Book 3B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_02)
+                - [Book 3B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_03)
+                - [Book 3B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_04)
+                - [Book 3B Chapter 08: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_05)
+                </details>
+            - <details><summary>Chapter 9</summary>
+
+                - [Book 3B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_01)
+                - [Book 3B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_02)
+                - [Book 3B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_03)
+                - [Book 3B Chapter 09: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_04)
+                - [Book 3B Chapter 09: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_05)
+                </details>
+            - <details><summary>Chapter 10</summary>
+
+                - [Book 3B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_01)
+                - [Book 3B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_02)
+                - [Book 3B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_03)
+                - [Book 3B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_04)
+                </details>
+            - <details><summary>Chapter 11</summary>
+
+                - [Book 3B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_01)
+                - [Book 3B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_02)
+                - [Book 3B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_03)
+                - [Book 3B Chapter 11: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_04)
+                - [Book 3B Chapter 11: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_05)
+                - [Book 3B Chapter 11: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_06)
+                - [Book 3B Chapter 11: 5-Minute Lecture 07](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_07)
+                </details>
+            - <details><summary>Chapter 12</summary>
+
+                - [Book 3B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_01)
+                - [Book 3B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_02)
+                - [Book 3B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_03)
+                </details>
             </details>
         </details>
-    - <details><summary>Book 1B</summary>
+    - <details><summary>New Senior Secondary Mathematics in Action</summary>
 
-        - <details><summary>Chapter 7</summary>
+        - <details><summary>Book 5B</summary>
 
-            - [Book 1B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_01)
-            - [Book 1B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_02)
-            - [Book 1B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_03)
-            - [Book 1B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_04)
-            - [Book 1B Chapter 07: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_5min_05)
+            - <details><summary>Chapter 7 Equations of Circles</summary>
+
+                - [Book 5B Chapter 7: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048934/5B07_5Min_01e.pptx)
+                - [Book 5B Chapter 7: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048935/5B07_5Min_02e.pptx)
+                - [Book 5B Chapter 7: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048936/5B07_5Min_03e.pptx)
+                </details>
+            - <details><summary>Chapter 8 Locus</summary>
+
+                - [Book 5B Chapter 8: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048940/5B08_5Min_01e.pptx)
+                - [Book 5B Chapter 8: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048941/5B08_5Min_02e.pptx)
+                </details>
+            - <details><summary>Chapter 9 Measures of Dispersion</summary>
+
+                - [Book 5B Chapter 9: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048942/5B09_5Min_01e.pptx)
+                - [Book 5B Chapter 9: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048943/5B09_5Min_02e.pptx)
+                - [Book 5B Chapter 9: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048944/5B09_5Min_03e.pptx)
+                - [Book 5B Chapter 9: 5-Minute Lecture 04](https://github.com/user-attachments/files/18048945/5B09_5Min_04e.pptx)
+                - [Book 5B Chapter 9: 5-Minute Lecture 05](https://github.com/user-attachments/files/18048946/5B09_5Min_05e.pptx)
+                </details>
+            - <details><summary>Chapter 10 Permutation and Combination</summary>
+
+                - [Book 5B Chapter 10: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048947/5B10_5Min_01e.pptx)
+                - [Book 5B Chapter 10: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048948/5B10_5Min_02e.pptx)
+                - [Book 5B Chapter 10: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048949/5B10_5Min_03e.pptx)
+                </details>
+            - <details><summary>Chapter 11 More about Probability</summary>
+
+                - [Book 5B Chapter 11: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048950/5B11_5Min_01e.pptx)
+                - [Book 5B Chapter 11: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048951/5B11_5Min_02e.pptx)
+                - [Book 5B Chapter 11: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048938/5B11_5Min_03e.pptx)
+                - [Book 5B Chapter 11: 5-Minute Lecture 04](https://github.com/user-attachments/files/18048953/5B11_5Min_04e.pptx)
+                - [Book 5B Chapter 11: 5-Minute Lecture 05](https://github.com/user-attachments/files/18048954/5B11_5Min_05e.pptx)
+                - [Book 5B Chapter 11: 5-Minute Lecture 06](https://github.com/user-attachments/files/18048955/5B11_5Min_06e.pptx)
+                </details>
             </details>
-        - <details><summary>Chapter 8</summary>
+        - <details><summary>Book 6A</summary>
 
-            - [Book 1B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_01)
-            - [Book 1B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_02)
-            - [Book 1B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_03)
-            - [Book 1B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_5min_04)
-            </details>
-        - <details><summary>Chapter 9</summary>
+            - <details><summary>Chapter 1 Arithmetic and Geometric Sequences</summary>
 
-            - [Book 1B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_01)
-            - [Book 1B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_02)
-            - [Book 1B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_5min_03)
-            </details>
-        - <details><summary>Chapter 10</summary>
+                - [Book 6A Chapter 1: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051254/6A01_5Min_01e.pptx)
+                - [Book 6A Chapter 1: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051255/6A01_5Min_02e.pptx)
+                - [Book 6A Chapter 1: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051256/6A01_5Min_03e.pptx)
+                </details>
+            - <details><summary>Chapter 2 Summation of Arithmetic and Geometric Sequences</summary>
 
-            - [Book 1B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_01)
-            - [Book 1B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_02)
-            - [Book 1B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_03)
-            - [Book 1B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_5min_04)
-            </details>
-        - <details><summary>Chapter 11</summary>
+                - [Book 6A Chapter 2: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051257/6A02_5Min_01e.pptx)
+                - [Book 6A Chapter 2: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051258/6A02_5Min_02e.pptx)
+                - [Book 6A Chapter 2: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051259/6A02_5Min_03e.pptx)
+                </details>
+            - <details><summary>Chapter 3 More about Graphs of Functions</summary>
 
-            - [Book 1B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_01)
-            - [Book 1B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_02)
-            - [Book 1B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_5min_03)
-            </details>
-        - <details><summary>Chapter 12</summary>
+                - [Book 6A Chapter 3: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051260/6A03_5Min_01e.pptx)
+                - [Book 6A Chapter 3: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051261/6A03_5Min_02e.pptx)
+                - [Book 6A Chapter 3: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051262/6A03_5Min_03e.pptx)
+                - [Book 6A Chapter 3: 5-Minute Lecture 04](https://github.com/user-attachments/files/18051263/6A03_5Min_04e.pptx)
+                </details>
+            - <details><summary>Chapter 4 Uses and Abuses of Statistics</summary>
 
-            - [Book 1B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_01)
-            - [Book 1B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_02)
-            - [Book 1B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_03)
-            - [Book 1B Chapter 12: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_5min_04)
-            </details>
-        </details>
-    - <details><summary>Book 2A</summary>
-
-        - <details><summary>Chapter 1</summary>
-
-            - [Book 2A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_01)
-            - [Book 2A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_02)
-            - [Book 2A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_5min_03)
-            </details>
-        - <details><summary>Chapter 2</summary>
-
-            - [Book 2A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_01)
-            - [Book 2A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_02)
-            - [Book 2A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_03)
-            - [Book 2A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_04)
-            - [Book 2A Chapter 02: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_05)
-            - [Book 2A Chapter 02: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_5min_06)
-            </details>
-        - <details><summary>Chapter 3</summary>
-
-            - [Book 2A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_01)
-            - [Book 2A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_02)
-            - [Book 2A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_5min_03)
-            </details>
-        - <details><summary>Chapter 4</summary>
-
-            - [Book 2A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_01)
-            - [Book 2A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_02)
-            - [Book 2A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_03)
-            - [Book 2A Chapter 04: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_04)
-            - [Book 2A Chapter 04: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_05)
-            - [Book 2A Chapter 04: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_5min_06)
-            </details>
-        - <details><summary>Chapter 5</summary>
-
-            - [Book 2A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_01)
-            - [Book 2A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_02)
-            - [Book 2A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_03)
-            - [Book 2A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_5min_04)
-            </details>
-        - <details><summary>Chapter 6</summary>
-
-            - [Book 2A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_01)
-            - [Book 2A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_02)
-            - [Book 2A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_03)
-            - [Book 2A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_04)
-            - [Book 2A Chapter 06: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_5min_05)
-            </details>
-        </details>
-    - <details><summary>Book 2B</summary>
-
-        - <details><summary>Chapter 7</summary>
-
-            - [Book 2B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_01)
-            - [Book 2B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_02)
-            - [Book 2B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_03)
-            - [Book 2B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_5min_04)
-            </details>
-        - <details><summary>Chapter 8</summary>
-
-            - [Book 2B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_01)
-            - [Book 2B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_02)
-            - [Book 2B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_03)
-            - [Book 2B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_5min_04)
-            </details>
-        - <details><summary>Chapter 9</summary>
-
-            - [Book 2B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_01)
-            - [Book 2B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_02)
-            - [Book 2B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_03)
-            - [Book 2B Chapter 09: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_04)
-            - [Book 2B Chapter 09: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_05)
-            - [Book 2B Chapter 09: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_5min_06)
-            </details>
-        - <details><summary>Chapter 10</summary>
-
-            - [Book 2B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_01)
-            - [Book 2B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_02)
-            - [Book 2B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_03)
-            - [Book 2B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_04)
-            - [Book 2B Chapter 10: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_05)
-            - [Book 2B Chapter 10: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_5min_06)
-            </details>
-        - <details><summary>Chapter 11</summary>
-
-            - [Book 2B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_01)
-            - [Book 2B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_02)
-            - [Book 2B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_5min_03)
-            </details>
-        - <details><summary>Chapter 12</summary>
-
-            - [Book 2B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_01)
-            - [Book 2B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_02)
-            - [Book 2B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_03)
-            - [Book 2B Chapter 12: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_5min_04)
-            </details>
-        </details>
-    - <details><summary>Book 3A</summary>
-
-        - <details><summary>Chapter 1</summary>
-
-            - [Book 3A Chapter 01: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_01)
-            - [Book 3A Chapter 01: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_02)
-            - [Book 3A Chapter 01: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_5min_03)
-            </details>
-        - <details><summary>Chapter 2</summary>
-
-            - [Book 3A Chapter 02: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_01)
-            - [Book 3A Chapter 02: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_02)
-            - [Book 3A Chapter 02: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_03)
-            - [Book 3A Chapter 02: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_5min_04)
-            </details>
-        - <details><summary>Chapter 3</summary>
-
-            - [Book 3A Chapter 03: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_01)
-            - [Book 3A Chapter 03: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_02)
-            - [Book 3A Chapter 03: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_5min_03)
-            </details>
-        - <details><summary>Chapter 4</summary>
-
-            - [Book 3A Chapter 04: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_01)
-            - [Book 3A Chapter 04: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_02)
-            - [Book 3A Chapter 04: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_03)
-            - [Book 3A Chapter 04: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_04)
-            - [Book 3A Chapter 04: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_5min_05)
-            </details>
-        - <details><summary>Chapter 5</summary>
-
-            - [Book 3A Chapter 05: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_01)
-            - [Book 3A Chapter 05: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_02)
-            - [Book 3A Chapter 05: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_03)
-            - [Book 3A Chapter 05: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_04)
-            - [Book 3A Chapter 05: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_5min_05)
-            </details>
-        - <details><summary>Chapter 6</summary>
-
-            - [Book 3A Chapter 06: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_01)
-            - [Book 3A Chapter 06: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_02)
-            - [Book 3A Chapter 06: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_03)
-            - [Book 3A Chapter 06: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_5min_04)
-            </details>
-        </details>
-    - <details><summary>Book 3B</summary>
-
-        - <details><summary>Chapter 7</summary>
-
-            - [Book 3B Chapter 07: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_01)
-            - [Book 3B Chapter 07: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_02)
-            - [Book 3B Chapter 07: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_03)
-            - [Book 3B Chapter 07: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_04)
-            - [Book 3B Chapter 07: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_5min_05)
-            </details>
-        - <details><summary>Chapter 8</summary>
-
-            - [Book 3B Chapter 08: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_01)
-            - [Book 3B Chapter 08: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_02)
-            - [Book 3B Chapter 08: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_03)
-            - [Book 3B Chapter 08: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_04)
-            - [Book 3B Chapter 08: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_5min_05)
-            </details>
-        - <details><summary>Chapter 9</summary>
-
-            - [Book 3B Chapter 09: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_01)
-            - [Book 3B Chapter 09: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_02)
-            - [Book 3B Chapter 09: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_03)
-            - [Book 3B Chapter 09: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_04)
-            - [Book 3B Chapter 09: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_5min_05)
-            </details>
-        - <details><summary>Chapter 10</summary>
-
-            - [Book 3B Chapter 10: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_01)
-            - [Book 3B Chapter 10: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_02)
-            - [Book 3B Chapter 10: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_03)
-            - [Book 3B Chapter 10: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_5min_04)
-            </details>
-        - <details><summary>Chapter 11</summary>
-
-            - [Book 3B Chapter 11: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_01)
-            - [Book 3B Chapter 11: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_02)
-            - [Book 3B Chapter 11: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_03)
-            - [Book 3B Chapter 11: 5-Minute Lecture 04](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_04)
-            - [Book 3B Chapter 11: 5-Minute Lecture 05](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_05)
-            - [Book 3B Chapter 11: 5-Minute Lecture 06](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_06)
-            - [Book 3B Chapter 11: 5-Minute Lecture 07](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_5min_07)
-            </details>
-        - <details><summary>Chapter 12</summary>
-
-            - [Book 3B Chapter 12: 5-Minute Lecture 01](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_01)
-            - [Book 3B Chapter 12: 5-Minute Lecture 02](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_02)
-            - [Book 3B Chapter 12: 5-Minute Lecture 03](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_5min_03)
+                - [Book 6A Chapter 4: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051264/6A04_5Min_01e.pptx)
+                - [Book 6A Chapter 4: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051265/6A04_5Min_02e.pptx)
+                - [Book 6A Chapter 4: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051266/6A04_5Min_03e.pptx)
+                </details>
             </details>
         </details>
     </details>
