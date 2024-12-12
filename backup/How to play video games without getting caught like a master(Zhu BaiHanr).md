@@ -1,1 +1,0 @@
-Rotate your device against the teacher. But watch out, because Terry Lam will hunt for you!! "@mr_terry_lam"
