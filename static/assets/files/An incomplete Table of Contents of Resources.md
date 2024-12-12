@@ -1,6 +1,42 @@
 > [!NOTE]
 > Z-library: [https://z-lib.fm](https://z-lib.fm), Anna's Archive: [https://annas-archive.org](https://annas-archive.org) (Please use external downloads)
 
+<details open><summary>La Salle College Documents</summary>
+	
+- <details><summary>F.2 Mid-Year Exam Syllbus, Timetable & Circular</summary>
+	
+	- [24-25 Mid-Year Exam F.1-5 Timetable](https://github.com/user-attachments/files/18110653/Signed.Mid.Yr.Exam.24-25.Timetable.pdf)
+ 	- [24-25 Mid-Year Exam F.1-5 Student Circular](https://github.com/user-attachments/files/18110657/Signed.1.MYE.24-25_S_cir.pdf)
+	- [24-25 Mid-Year Exam F.2 Exam Numbers](https://github.com/user-attachments/files/18110707/24-25.Mid-Year.Exam.F.2.Exam.Numbers.pdf)
+	- [24-25 Mid-Year Exam F.2 Syllabuses](https://github.com/user-attachments/files/18110763/24-25.Mid-Year.Exam.F.2.Syllabuses.pdf)
+	</details>
+- <details><summary>F.2 Student Handbook, Timetable</summary>
+	
+	- [La Salle College F.2 Student Handbook](https://github.com/user-attachments/files/18110609/Student.Handbook.24-25.pdf)
+ 	- [2024-25 F.2 Class Timetable](https://github.com/user-attachments/files/18110625/2024-25.Class.Timtable_F2_updated.pdf)
+	</details>
+- <details><summary>24-25 F.2 Programme Outline</summary>
+	
+	- [F.1-3 Chinese Programme Outline](https://github.com/user-attachments/files/18110394/2024-25.Chi.F.1-3.Programme.Outline.pdf)
+	- [F.2 English Programme Outline](https://github.com/user-attachments/files/18110396/2024-25.Eng.F.2.Programme.Outline.pdf)
+	- [F.2 Mathematics Programme Outline](https://github.com/user-attachments/files/18110381/2024-25.Math.F.2.Programme.Outline.pdf)
+	- [F.2 Science Programme Outline](https://github.com/user-attachments/files/18110391/2024-25.Sci.F.2.Programme.Outline.pdf)
+	- [F.2 ICT Programme Outline](https://github.com/user-attachments/files/18110378/2024-25.ICT.F.2.Programme.Outline.pdf)
+	- [F.2 Life and Society Programme Outline](https://github.com/user-attachments/files/18110379/2024-25.L.S.F.2.Programme.Outline.pdf)
+	- [F.2 Geography Programme Outline](https://github.com/user-attachments/files/18110398/2024-25.Geog.F.2.Programme.Outline.pdf)
+	- [F.2 Chinese History Programme Outline](https://github.com/user-attachments/files/18110393/2024-25.C.hist.F.2.Programme.Outline.pdf)
+	- [F.2 History Programme Outline](https://github.com/user-attachments/files/18110377/2024-25.Hist.F.2.Programme.Outline.pdf)
+	- [F.2 Putonghua Programme Outline](https://github.com/user-attachments/files/18110389/2024-25.PTH.F.2.Programme.Outline.pdf)
+	- [F.2 RE Programme Outline](https://github.com/user-attachments/files/18110390/2024-25.RE.F.2.Programme.Outline.pdf)
+	- [F.1-6 French Programme Outline](https://github.com/user-attachments/files/18110397/2024-25.French.F.1-6.Programme.Outline.pdf)
+	- [F.2 Chinese for NCS Programme Outline](https://github.com/user-attachments/files/18110385/2024-25.NCS.Chin.F.2.Programme.outline.pdf)
+	- [F.1-6 D&T Programme Outline](https://github.com/user-attachments/files/18110395/2024-25.DAT.F.1-6.Programme.Outline.pdf)
+	- [F.2 LAC Programme Outline](https://github.com/user-attachments/files/18110380/2024-25.LAC.F.2.Programme.Outline.pdf)
+	- [F.2 Music Programme Outline](https://github.com/user-attachments/files/18110382/2024-25.Music.F.2.Programme.Outline.pdf)
+	- [F.2 Visual Arts Programme Outline](https://github.com/user-attachments/files/18110392/2024-25.VA.F.2.Programme_Outline.pdf)
+	- [F.2 PE Programme Outline](https://github.com/user-attachments/files/18110387/2024-25.PE.F.2.Programme.Outline.pdf)
+	</details>
+</details>
 <details open><summary>Subject specfic</summary>
 
 - <details><summary>Chinese</summary>
