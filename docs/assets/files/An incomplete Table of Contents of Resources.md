@@ -669,7 +669,23 @@
     - Module E: Social Implications (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56992033/a99fe5/modern-senior-secondary-information-and-communication-technology-module-e-social-implications-comp.html)
     </details>
 </details>
+<details><summary>Geography</summary>
 
+- <details><summary>Geography Workbook</summary>
+
+    - [Junior Secondary Exploring Geography Workbook 1 - Using urban space wisely](https://www.scribd.com/document/803503255/Junior-Secondary-Exploring-Geography-Workbook-1-Using-Urban-Space-Wisely-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 2 - Scramble for energy](https://www.scribd.com/document/803503250/Junior-Secondary-Exploring-Geography-Workbook-2-Scramble-for-Energy-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 3 - Food problems](https://www.scribd.com/document/803503263/Junior-Secondary-Exploring-Geography-Workbook-3-Food-Problems-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 4 - The trouble with water](https://www.scribd.com/document/803503260/Junior-Secondary-Exploring-Geography-Workbook-4-The-Trouble-With-Water-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 5 - Living with natural hazards](https://www.scribd.com/document/803503256/Junior-Secondary-Exploring-Geography-Workbook-5-Living-With-Natural-Hazards-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 6 - Global shift in manufacturing](https://www.scribd.com/document/803503252/Junior-Secondary-Exploring-Geography-Workbook-6-Global-Shift-in-Manufacturing-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 7 (Elective) - Tourism](https://www.scribd.com/document/803503259/Junior-Secondary-Exploring-Geography-Workbook-7-Elective-Tourism-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 8 (Elective) - Oceans in trouble](https://www.scribd.com/document/803503254/Junior-Secondary-Exploring-Geography-Workbook-8-Elective-Oceans-in-Trouble-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 9 (Elective) - Population problems](https://www.scribd.com/document/803503253/Junior-Secondary-Exploring-Geography-Workbook-9-Elective-Population-Problems-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 10 (Elective) - Taming the sand](https://www.scribd.com/document/803503258/Junior-Secondary-Exploring-Geography-Workbook-10-Elective-Taming-the-Sand-With-Answers)
+    - [Junior Secondary Exploring Geography Workbook 11 (Elective) - Changing climate, changing environments](https://www.scribd.com/document/803503251/Junior-Secondary-Exploring-Geography-Workbook-11-Elective-Changing-Climate-Changing-Environments-With-Answers)
+    </details>
+</details>
 <details><summary>Chinese History</summary>
 
 - <details><summary>HKDSE Resources</summary>
