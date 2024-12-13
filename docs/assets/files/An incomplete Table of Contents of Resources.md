@@ -38,6 +38,10 @@
     - Junior Oxford Advanced Listening Book 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355260/34ace6/junior-oxford-advanced-listening-book-2.html)
     - Junior Oxford Advanced Listening Book 3：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355912/9069ce/junior-oxford-advanced-listening-book-3.html)
     </details>
+- <details><summary>Oxford Advanced Thematic Anthology</summary>
+
+	- [Oxford Advanced Thematic Anthology Book 4 Answer](https://www.scribd.com/document/801817858/Oxford-Advanced-Thematic-Anthology-Book-4-Answer#)
+    </details>
 </details>
 <details><summary>Mathematics</summary>
 
