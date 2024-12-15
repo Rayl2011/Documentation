@@ -626,7 +626,7 @@
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 13](https://www.scribd.com/document/804928501/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-13)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 14](https://www.scribd.com/document/804928510/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-14)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 15](https://www.scribd.com/document/804928536/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-15)
-    - [New Senior Secondary Mastering Biology Revision Notes Chapter 16](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/New%20Senior%20Secondary%20Mastering%20Biology%20Revision%20Notes%20Chapter%2016.pdf)
+    - [New Senior Secondary Mastering Biology Revision Notes Chapter 16](https://github.com/user-attachments/files/18142660/New.Senior.Secondary.Mastering.Biology.Revision.Notes.Chapter.16.pdf)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 17](https://www.scribd.com/document/804928495/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-17)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 18](https://www.scribd.com/document/804928530/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-18)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 19](https://www.scribd.com/document/804928528/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-19)
