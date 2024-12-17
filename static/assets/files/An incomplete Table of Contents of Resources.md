@@ -710,6 +710,22 @@
 </details>
 <details><summary>Geography</summary>
 
+- <details><summary>Geography Textbook</summary>
+
+    - [Junior Secondary Exploring Geography Book 1 - Using urban space wisely](https://z-lib.fm/book/29297431/cb21a8/junior-secondary-exploring-geography-book-1-using-urban-space-wisely.html)
+    - [Junior Secondary Exploring Geography Book 2 - Scramble for energy](https://z-lib.fm/book/29297467/bb4523/junior-secondary-exploring-geography-book-2-scramble-for-energy.html)
+    - [Junior Secondary Exploring Geography Book 3 - Food problems](https://z-lib.fm/book/29305968/0aad78/junior-secondary-exploring-geography-book-3-food-problems.html)
+    - [Junior Secondary Exploring Geography Book 4 - The trouble with water](https://z-lib.fm/book/29305978/c7c00f/junior-secondary-exploring-geography-book-4-the-trouble-with-water.html)
+    - [Junior Secondary Exploring Geography Book 5 - Living with natural hazards](https://z-lib.fm/book/29306004/ce43e0/junior-secondary-exploring-geography-book-5-living-with-natural-hazards.html)
+    - [Junior Secondary Exploring Geography Book 6 - Global shift in manufacturing](https://z-lib.fm/book/87601566/1010a1/junior-secondary-exploring-geography-book-6-global-shift-in-manufacturing-industry.html)
+    - [Junior Secondary Exploring Geography Book 7 (Elective) - Tourism](https://z-lib.fm/book/29919687/9d5c35/junior-secondary-exploring-geography-book-7-elective-tourism.html)
+    - [Junior Secondary Exploring Geography Book 8 (Elective) - Oceans in trouble](https://z-lib.fm/book/87449375/3b7354/junior-secondary-exploring-geography-book-8-elective-oceans-in-trouble.html)
+    - [Junior Secondary Exploring Geography Book 9 (Elective) - Population problems](https://z-lib.fm/book/87450920/c2788e/junior-secondary-exploring-geography-book-9-elective-population-problems.html)
+    - [Junior Secondary Exploring Geography Book 10 (Elective) - Taming the sand](https://z-lib.fm/book/87603729/b54478/junior-secondary-exploring-geography-book-10-elective-taming-the-sand.html)
+    - [Junior Secondary Exploring Geography Book 11 (Elective) - Changing climate, changing environments](https://z-lib.fm/book/87606701/575954/junior-secondary-exploring-geography-book-11-elective-changing-climate-changing-environments.html)
+    - [Junior Secondary Exploring Geography Map Reading Skills 1](https://z-lib.fm/book/29306012/83c54e/junior-secondary-exploring-geography-mapreading-skills-book-1.html)
+    - [Junior Secondary Exploring Geography Map Reading Skills 2](https://z-lib.fm/book/87511313/ed1663/junior-secondary-exploring-geography-map-reading-skills-2.html)
+    </details>
 - <details><summary>Geography Workbook</summary>
 
     - [Junior Secondary Exploring Geography Workbook 1 - Using urban space wisely](https://www.scribd.com/document/803503255/Junior-Secondary-Exploring-Geography-Workbook-1-Using-Urban-Space-Wisely-With-Answers)
