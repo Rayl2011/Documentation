@@ -850,7 +850,7 @@
 	
 	- [La Salle College F.2 Student Handbook](https://github.com/user-attachments/files/18110609/Student.Handbook.24-25.pdf)
  	- [2024-25 F.2 Class Timetable](https://github.com/user-attachments/files/18110625/2024-25.Class.Timtable_F2_updated.pdf)
-        - [2024-25 F.2 Emails (hkmusic.com.hk)](https://drive.google.com/file/d/1SyJalHJpUiCvGfaD1AJrTb8DA1Ae4sGV/view)
+	- [2024-25 F.2 Emails (hkmusic.com.hk)](https://drive.google.com/file/d/1SyJalHJpUiCvGfaD1AJrTb8DA1Ae4sGV/view)
 	</details>
 - <details><summary>24-25 F.2 Programme Outline</summary>
 	
