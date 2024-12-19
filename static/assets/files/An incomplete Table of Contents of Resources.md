@@ -839,7 +839,7 @@
 </details>
 <details open><summary>La Salle College Documents</summary>
 	
-- <details><summary>F.2 Mid-Year Exam Syllbus, Timetable & Circular</summary>
+- <details><summary>F.2 Mid-Year Exam Syllabus, Timetable & Circular</summary>
 	
 	- [24-25 Mid-Year Exam F.1-5 Timetable](https://github.com/user-attachments/files/18110653/Signed.Mid.Yr.Exam.24-25.Timetable.pdf)
  	- [24-25 Mid-Year Exam F.1-5 Student Circular](https://github.com/user-attachments/files/18110657/Signed.1.MYE.24-25_S_cir.pdf)
