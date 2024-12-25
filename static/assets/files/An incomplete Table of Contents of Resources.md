@@ -135,31 +135,6 @@
 
     </details>
 
-- <details><summary>Chapter Summary</summary>
-
-    - <details><summary>Junior Secondary Mathematics in Action</summary>
-
-        - <details><summary>Book 3A</summary>
-
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 1 More about Factorization of Polynomials - Chapter Summary](https://www.scribd.com/document/808252889/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-1-More-About-Factorization-of-Polynomials-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 2 Laws of Integral Indices - Chapter Summary](https://www.scribd.com/document/808252892/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-2-Laws-of-Integral-Indices-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 3 Linear Inequalities in One Unknown - Chapter Summary](https://www.scribd.com/document/808252898/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-3-Linear-Inequalities-in-One-Unknown-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 4 Percentages (II) - Chapter Summary](https://www.scribd.com/document/808252899/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-4-Percentages-II-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 5 Quadrilaterals - Chapter Summary](https://www.scribd.com/document/808252888/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-5-Quadrilaterals-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3A - Chapter 6 Special Lines and Centres in a Triangle - Chapter Summary](https://www.scribd.com/document/808252896/Junior-Secondary-Mathematics-in-Action-Book-3A-Chapter-6-Special-Lines-and-Centres-in-a-Triangle-Chapter-Summary)
-            </details>
-        - <details><summary>Book 3B</summary>
-
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 7 Areas and Volumes (III) - Chapter Summary](https://www.scribd.com/document/808252894/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-7-Areas-and-Volumes-III-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 8 Coordinate Geometry of Straight Lines - Chapter Summary](https://www.scribd.com/document/808252893/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-8-Coordinate-Geometry-of-Straight-Lines-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 9 Trigonometric Relations - Chapter Summary](https://www.scribd.com/document/808252893/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-8-Coordinate-Geometry-of-Straight-Lines-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 10 Applications of Trigonometry - Chapter Summary](https://www.scribd.com/document/808252900/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-10-Applications-of-Trigonometry-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 11 Measures of Central Tendency - Chapter Summary](https://www.scribd.com/document/808252891/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-11-Measures-of-Central-Tendency-Chapter-Summary)
-            - [Junior Secondary Mathematics in Action Book 3B - Chapter 12 Intoduction to Probability - Chapter Summary](https://www.scribd.com/document/808252895/Junior-Secondary-Mathematics-in-Action-Book-3B-Chapter-12-Intoduction-to-Probability-Chapter-Summary)
-            </details>
-        </details>
-    </details>
-
 - <details><summary>5-Minute Lecture</summary>
 
     - <details><summary>Junior Secondary Mathematics in Action</summary>
