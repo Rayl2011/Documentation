@@ -669,7 +669,6 @@
 	
 	- [24-25 Mid-Year Exam F.1-5 Timetable](https://github.com/user-attachments/files/18110653/Signed.Mid.Yr.Exam.24-25.Timetable.pdf)
  	- [24-25 Mid-Year Exam F.1-5 Student Circular](https://github.com/user-attachments/files/18110657/Signed.1.MYE.24-25_S_cir.pdf)
-	- [24-25 Mid-Year Exam F.2 Exam Numbers](https://github.com/user-attachments/files/18110707/24-25.Mid-Year.Exam.F.2.Exam.Numbers.pdf)
 	- [24-25 Mid-Year Exam F.2 Syllabuses](https://github.com/user-attachments/files/18110763/24-25.Mid-Year.Exam.F.2.Syllabuses.pdf)
 	</details>
 - <details><summary>F.2 Student Handbook, Timetable, Email list</summary>
