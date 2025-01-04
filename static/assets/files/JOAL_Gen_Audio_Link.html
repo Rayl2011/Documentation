@@ -3,53 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Resource Link Generator</title>
+    <title>Resource Link Generator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
             padding: 20px;
             background-color: #f4f4f4;
+            max-width: 600px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
-        form {
-            background: white;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        input[type="number"], input[type="text"] {
-            width: 100%;
+        input[type="text"], input[type="number"] {
+            width: calc(100% - 22px);
             padding: 10px;
             margin: 10px 0;
             border: 1px solid #ccc;
-            border-radius: 3px;
+            border-radius: 5px;
         }
         button {
+            padding: 10px 15px;
             background-color: #28a745;
             color: white;
-            padding: 10px;
             border: none;
-            border-radius: 3px;
+            border-radius: 5px;
             cursor: pointer;
-            width: 100%;
         }
         button:hover {
             background-color: #218838;
         }
         .output {
             margin-top: 20px;
-            font-weight: bold;
         }
     </style>
 </head>
 <body>
 
-    <form id="linkForm">
+    <h2>Junior Oxford Advanced Listening Audio Link Generator</h2>
+    <form id="resourceForm">
         <label for="bookNumber">Book Number:</label>
         <input type="number" id="bookNumber" required>
 
-        <label for="unitNumber">Unit Number / Assessment Number:</label>
-        <input type="number" id="unitNumber" required>
+        <label for="unitNumber">Unit / Assessment / Mock Exam / TSA Number:</label>
+        <input type="text" id="unitNumber" required>
 
         <label for="pageNumber">Page Number:</label>
         <input type="number" id="pageNumber" required>
@@ -57,25 +54,28 @@
         <button type="submit">Generate Link</button>
     </form>
 
-    <div class="output" id="outputLink"></div>
+    <div class="output" id="output"></div>
 
     <script>
-        document.getElementById('linkForm').addEventListener('submit', function(event) {
+        document.getElementById('resourceForm').addEventListener('submit', function(event) {
             event.preventDefault();
-            
+
             const bookNumber = document.getElementById('bookNumber').value;
             const unitNumber = document.getElementById('unitNumber').value;
-            const pageNumber = document.getElementById('pageNumber').value;
+            const pageNumber = parseInt(document.getElementById('pageNumber').value, 10);
+            let link = '';
 
-            let outputUrl;
-
-            if (pageNumber <= 81 || unitNumber > 4) {
-                outputUrl = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u${unitNumber}_p${pageNumber}_audio.html`;
+            if (pageNumber <= 82) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u${unitNumber}_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 106) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a${unitNumber}_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 122) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}mt${unitNumber}_p${pageNumber}.mp3`;
             } else {
-                outputUrl = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a${unitNumber}_p${pageNumber}.mp3`;
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}tsa_p${pageNumber}.mp3`;
             }
 
-            document.getElementById('outputLink').innerHTML = `<a href="${outputUrl}" target="_blank">${outputUrl}</a>`;
+            document.getElementById('output').innerHTML = `<a href="${link}" target="_blank">${link}</a>`;
         });
     </script>
 
