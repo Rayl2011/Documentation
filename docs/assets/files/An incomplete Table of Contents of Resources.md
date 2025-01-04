@@ -37,6 +37,7 @@
     - Junior Oxford Advanced Listening Book 1：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74354423/afbb44/junior-oxford-advanced-listening-book-1.html)
     - Junior Oxford Advanced Listening Book 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355260/34ace6/junior-oxford-advanced-listening-book-2.html)
     - Junior Oxford Advanced Listening Book 3：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74355912/9069ce/junior-oxford-advanced-listening-book-3.html)
+    - Junior Oxford Advanced Listening Generate Audio Link: [JOAL_Gen_Audio_Link.html](https://docs.perseusstudy.us.kg/assets/files/JOAL_Gen_Audio_Link.html)
     </details>
 - <details><summary>Oxford Advanced Thematic Anthology</summary>
 
