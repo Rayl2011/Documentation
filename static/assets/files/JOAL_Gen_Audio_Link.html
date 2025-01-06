@@ -10,7 +10,7 @@
             margin: 20px;
             padding: 20px;
             background-color: #f4f4f4;
-            max-width: 600px;
+            max-width: 700px;
             margin: auto;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -45,9 +45,6 @@
         <label for="bookNumber">Book Number:</label>
         <input type="number" id="bookNumber" required>
 
-        <label for="unitNumber">Unit / Assessment / Mock Exam / TSA Number:</label>
-        <input type="number" id="unitNumber" required>
-
         <label for="pageNumber">Page Number:</label>
         <input type="number" id="pageNumber" required>
 
@@ -61,16 +58,37 @@
             event.preventDefault();
 
             const bookNumber = document.getElementById('bookNumber').value;
-            const unitNumber = document.getElementById('unitNumber').value;
             const pageNumber = parseInt(document.getElementById('pageNumber').value, 10);
             let link = '';
 
-            if (pageNumber <= 82) {
-                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u${unitNumber}_p${pageNumber}_audio.html`;
-            } else if (pageNumber <= 106) {
-                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a${unitNumber}_p${pageNumber}.mp3`;
-            } else if (pageNumber <= 122) {
-                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}mt${unitNumber}_p${pageNumber}.mp3`;
+            if (pageNumber <= 11) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u1_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 21) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u2_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 31) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u3_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 41) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u4_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 51) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u5_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 61) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u6_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 71) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u7_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 81) {
+                link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u8_p${pageNumber}_audio.html`;
+            } else if (pageNumber <= 87) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a1_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 93) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a2_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 99) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a3_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 105) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}a4_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 113) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}mt1_p${pageNumber}.mp3`;
+            } else if (pageNumber <= 121) {
+                link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}mt2_p${pageNumber}.mp3`;
             } else {
                 link = `https://isolution.oupchina.com.hk/isolution-web/.iSolution/ebook_user_content/V3/342${bookNumber * 2}_P04/resources/joal2e_b${bookNumber}tsa_p${pageNumber}.mp3`;
             }
