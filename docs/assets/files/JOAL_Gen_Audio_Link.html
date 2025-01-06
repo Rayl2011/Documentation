@@ -36,6 +36,9 @@
         .output {
             margin-top: 20px;
         }
+        .error {
+            color: red;
+        }
     </style>
 </head>
 <body>
@@ -43,23 +46,31 @@
     <h2>Junior Oxford Advanced Listening Audio Link Generator</h2>
     <form id="resourceForm">
         <label for="bookNumber">Book Number:</label>
-        <input type="number" id="bookNumber" required>
+        <input type="number" id="bookNumber" min="1" max="3" required>
 
         <label for="pageNumber">Page Number:</label>
-        <input type="number" id="pageNumber" required>
+        <input type="number" id="pageNumber" min="1" max="129" required>
 
         <button type="submit">Generate Link</button>
     </form>
 
     <div class="output" id="output"></div>
+    <div class="error" id="error"></div>
 
     <script>
         document.getElementById('resourceForm').addEventListener('submit', function(event) {
             event.preventDefault();
+            document.getElementById('error').innerText = ''; // Clear previous errors
 
-            const bookNumber = document.getElementById('bookNumber').value;
+            const bookNumber = parseInt(document.getElementById('bookNumber').value, 10);
             const pageNumber = parseInt(document.getElementById('pageNumber').value, 10);
             let link = '';
+
+            // Validate book number and page number
+            if (bookNumber < 1 || bookNumber > 3 || pageNumber < 1 || pageNumber > 129) {
+                document.getElementById('error').innerText = 'Please enter valid Book Number (1-3) and Page Number (1-129).';
+                return;
+            }
 
             if (pageNumber <= 11) {
                 link = `https://eresources.oupchina.com.hk/joal2e/qr/b${bookNumber}u1_p${pageNumber}_audio.html`;
