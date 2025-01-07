@@ -573,16 +573,16 @@
     </details>
 - <details><summary>Senior Secondary Books (ICT for iGeneration)</summary>
 
-    - Information Processing (Compulsory A1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/55346938/c20cc7/ict-for-igeneration-information-processing-compulsory-a1pdf.html)
+    - [Information Processing (Compulsory A1)](https://annas-archive.org/md5/6f35ab9a6fbb7800c8b7407c2d753724)
     - Information Processing (Compulsory A2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56650854/433b88/ict-for-igeneration-information-processing-compulsory-a2.html)
-    - Computer System Fundamentals (Compulsory B)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56652811/42ef0b/ict-for-igeneration-computer-system-fundamentals-compulsory-b.html)
-    - Internet and its Applications (Compulsory C1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56662863/39668f/ict-for-igeneration-internet-and-its-applications-compulsory-c1.html)
+    - [Computer System Fundamentals (Compulsory B)](https://yue.annas-archive.org/md5/6bef300b603d433c1089b5be57627894)
+    - [Internet and its Applications (Compulsory C1)](https://annas-archive.org/md5/42fe51fd948704c85dbfb70c38a48188)
     - Internet and its Applications (Compulsory C2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56665596/43afc7/ict-for-igeneration-internet-and-its-applications-compulsory-c2.html)
-    - Computational Thinking and Programming (Compulsory D1)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56668299/6a50b4/ict-for-igeneration-computational-thinking-and-programming-compulsory-d1.html)
+    - [Computational Thinking and Programming (Compulsory D1)](https://annas-archive.org/md5/66455b0c2741d93e8efc06aa5793d034)
     - Computational Thinking and Programming (Compulsory D2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56671699/9c4eab/ict-for-igeneration-computational-thinking-and-programming-compulsory-d2.html)
-    - Social Implications (Compulsory E)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56692729/aeb7e2/ict-for-igeneration-social-implications-compulsory-e.html)
-    - Databases (Elective A)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56712600/b21a0d/ict-for-igeneration-databases-elective-a.html)
-    - Web Application Development (Elective B)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56719321/47cca9/ict-for-igeneration-web-application-development-elective-b.html)
+    - [Social Implications (Compulsory E)](https://annas-archive.org/md5/c35e7bc62d219e4cf8b26d38e6779b36)
+    - [Databases (Elective A)](https://annas-archive.org/md5/549b4dca6fcf855b671e450c472ba426)
+    - [Web Application Development (Elective B)](https://annas-archive.org/md5/a319a322e99b531c2d9b5eff14c8305f)
     - Algorithm and Programming (Elective C)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56715300/998526/ict-for-igeneration-algorithm-and-programming-elective-c.html)
     </details>
 - <details><summary>Senior Secondary Books (Modern Senior Secondary ICT)</summary>
