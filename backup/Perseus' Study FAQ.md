@@ -6,10 +6,11 @@ Perseus' Study is a group for all of La Salle College (Hong Kong), aiming to sup
 We offer various chatrooms and discussion forums across platforms like Discord & Google Chat, where you can interact with our moderators to get study tips and advice, as well as engage with other members to share thoughts. 
 ## How could I join Perseus' Study?
 Just send an email to perseus@lscstudy.us.kg (Lee Perseus Robin) and the moderators will consider your request. No fees will be charged.
-## What's Perseus' Study Website/Discord/Google Drive?
+## What's Perseus' Study Homepage/Blog/Documentation/Music Player/Discord/Table of Contents?
 __Homepage__: https://lscstudy.us.kg or https://perseusstudy.us.kg (Legacy homepage: perseus-study-homepage.pages.dev)
 __Blog__: https://blog.lscstudy.us.kg
 __Documentation__: https://docs.lscstudy.us.kg (Legacy Version: https://docs.perseusstudy.us.kg)
+__Music Player__: https://music.lscstudy.us.kg (Use https://forms.gle/r9jxyy5pbpc4JKX17 to add new songs)
 __Discord__: Perseus' Study Server: https://discord.gg/sSuVpT2TBR, Legacy server: https://discord.gg/eyRCkbE5Rh
 __Table of Contents__: [An incomplete Table of Contents of Resources](https://docs.lscstudy.us.kg/post/An%20incomplete%20Table%20of%20contents%20of%20Resources.html)
 ## What are the rules & requlations of Perseus' Study?
@@ -43,4 +44,4 @@ As Perseus' Study is using CC0 1.0, we cannot sue you for providing our material
 ## What exactly are the "Resources" that I can use?
 List of resources: https://sites.google.com/lsc.hk/perseus-study/resources (Categorized by subjects, Subpages)
 <code>We believe information should be always free and easy to access. This is the key. </code>
-Last updated: 14th January, 2025 10:14 (Sun)
+Last updated: 15th January, 2025 14:52 (Sun)
