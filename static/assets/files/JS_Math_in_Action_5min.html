@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="/favicon.png" type="image/svg+xml">
+    <title>JSMIA 5min Link Gen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+            max-width: 800px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"], input[type="number"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .output {
+            margin-top: 20px;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Junior Secondary Mathematics in Action 5min Lecture Link Generator</h2>
+    <form id="resourceForm">
+        <label for="bookNumber">Book Number (1 - 3):</label>
+        <input type="number" id="bookNumber" min="1" max="3" required>
+
+        <label for="chapterNumber">Chapter (1 - 12):</label>
+        <input type="number" id="chapterNumber" min="1" max="12" required>
+
+        <label for="lectureNumber">Lecture Number:</label>
+        <input type="number" id="lectureNumber" min="1">
+        <button type="submit">Generate Link</button>
+    </form>
+
+    <div class="output" id="output"></div>
+    <div class="error" id="error"></div>
+
+	<script>
+		document.getElementById('resourceForm').addEventListener('submit', function(event) {
+			event.preventDefault();
+			document.getElementById('error').innerText = ''; // Clear previous errors
+
+			const bookNumber = parseInt(document.getElementById('bookNumber').value, 10);
+			const chapterNumber = parseInt(document.getElementById('chapterNumber').value, 10);
+			const lectureNumber = parseInt(document.getElementById('lectureNumber').value, 10) || 0; // Default to 0 if empty
+			
+			// Format numbers to double digits
+			const formattedChapterNumber = String(chapterNumber).padStart(2, '0');
+			const formattedLectureNumber = String(lectureNumber).padStart(2, '0');
+
+			let link = '';
+
+			// Validate book number and page number
+			if (bookNumber < 1 || bookNumber > 3 || chapterNumber < 1 || chapterNumber > 12) {
+				document.getElementById('error').innerText = 'Please enter valid Book Number (1-3) and Chapter Number (1-12).';
+				return;
+			}
+
+			if (chapterNumber <= 6) {
+				link = `https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_${bookNumber}A_ch${formattedChapterNumber}_5min_${formattedLectureNumber}`;
+			} else {
+				link = `https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_${bookNumber}B_ch${formattedChapterNumber}_5min_${formattedLectureNumber}`;
+			}
+
+			document.getElementById('output').innerHTML = `<a href="${link}" target="_blank">${link}</a>`;
+		});
+	</script>
+
+</body>
+</html>
