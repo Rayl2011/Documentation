@@ -140,7 +140,7 @@
 
     - <details><summary>Junior Secondary Mathematics in Action</summary>
 
-        - Junior Secondary Mathematics in Action 5-Minute Lecture Link Generator: [JS_Math_in_Action_5min.html]([https://docs.pers](https://docs.perseusstudy.us.kg/assets/files/JS_Math_in_Action_5min.html)
+        - [Junior Secondary Mathematics in Action 5-Minute Lecture Link Generator](https://docs.perseusstudy.us.kg/assets/files/JS_Math_in_Action_5min.html)
         </details>
     - <details><summary>New Senior Secondary Mathematics in Action</summary>
 
