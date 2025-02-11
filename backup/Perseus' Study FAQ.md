@@ -12,7 +12,7 @@ __Blog__: https://blog.lscstudy.us.kg
 __Documentation__: https://docs.lscstudy.us.kg (Legacy Version: https://docs.perseusstudy.us.kg)
 __Music Player__: https://music.lscstudy.us.kg (Use https://forms.gle/r9jxyy5pbpc4JKX17 to add new songs)
 __Discord__: Perseus' Study Server: https://discord.gg/sSuVpT2TBR, Legacy server: https://discord.gg/eyRCkbE5Rh
-__Table of Contents__: [An incomplete Table of Contents of Resources](https://docs.lscstudy.us.kg/post/An%20incomplete%20Table%20of%20contents%20of%20Resources.html)
+__Table of Contents__: [An incomplete Table of Contents of Resources](https://docs.lscstudy.us.kg/post/An%20incomplete%20Table%20of%20Contents%20of%20Resources.html)
 ## What are the rules & requlations of Perseus' Study?
 Rules & Regulations: https://perseusstudy.us.kg/rulesandregulations.html
 ## What is the aim of Perseus' Study
