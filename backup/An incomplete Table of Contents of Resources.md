@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Documentation</title><link>https://docs.perseusstudy.us.kg/</link><description>Unlimited Advancement; Build for Perseus Study</description><copyright>Documentation</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.png</url><title>avatar</title><link>https://docs.perseusstudy.us.kg/</link></image><lastBuildDate>Tue, 11 Feb 2025 04:55:47 +0000</lastBuildDate><managingEditor>Documentation</managingEditor><ttl>60</ttl><webMaster>Documentation</webMaster><item><title>An incomplete Table of Contents of Resources</title><link>https://docs.perseusstudy.us.kg//post/An%20incomplete%20Table%20of%20Contents%20of%20Resources.html</link><description>&gt; [!NOTE]
-&gt; Z-library: [https://z-lib.fm](https://z-lib.fm), Anna's Archive: [https://annas-archive.org](https://annas-archive.org) (Please use external downloads)
+> [!NOTE]
+> Z-library: [https://z-lib.fm](https://z-lib.fm), Anna's Archive: [https://annas-archive.org](https://annas-archive.org) (Please use external downloads)
 
-&lt;details&gt;&lt;summary&gt;Chinese&lt;/summary&gt;
+<details><summary>Chinese</summary>
 
-- &lt;details&gt;&lt;summary&gt;23 - 24 中一級暑期習作：閱讀報告(電子書)&lt;/summary&gt;
+- <details><summary>23 - 24 中一級暑期習作：閱讀報告(電子書)</summary>
 
     - [日日是好日](https://annas-archive.org/md5/69a0b503e03d16aa244d5f78938bb649)
     - [地球末日拯救隊](https://annas-archive.org/md5/d4443077e6f30b3b276a55ff842159f0)
@@ -19,53 +18,53 @@
     - [剪髮](https://annas-archive.org/md5/4fbd6c198f5c8e33b6118ceed9f3b81d)
     - [霓虹黯色：香港街道視覺文化記錄](https://annas-archive.org/md5/7181d555a6ede9e1fcddec9f3f3b2b25)
     - [爆籃街霸王](https://annas-archive.org/md5/6c73fcfce785bad5bdea5562f7f80eaa)
-    &lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;English&lt;/summary&gt;
+    </details>
+</details>
+<details><summary>English</summary>
 
-- &lt;details&gt;&lt;summary&gt;Junior Oxford Advanced Listening&lt;/summary&gt;
+- <details><summary>Junior Oxford Advanced Listening</summary>
 
     - Junior Oxford Advanced Listening Generate Audio Link: [JOAL_Gen_Audio_Link.html](/assets/files/JOAL_Gen_Audio_Link.html)
-    &lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;Mathematics&lt;/summary&gt;
+    </details>
+</details>
+<details><summary>Mathematics</summary>
 
-- &lt;details&gt;&lt;summary&gt;5-Minute Lecture&lt;/summary&gt;
+- <details><summary>5-Minute Lecture</summary>
 
-    - &lt;details&gt;&lt;summary&gt;Junior Secondary Mathematics in Action&lt;/summary&gt;
+    - <details><summary>Junior Secondary Mathematics in Action</summary>
 
         - [Junior Secondary Mathematics in Action 5-Minute Lecture Link Generator](/assets/files/JS_Math_in_Action_5min.html)
-        &lt;/details&gt;
-    - &lt;details&gt;&lt;summary&gt;New Senior Secondary Mathematics in Action&lt;/summary&gt;
+        </details>
+    - <details><summary>New Senior Secondary Mathematics in Action</summary>
 
-        - &lt;details&gt;&lt;summary&gt;Book 5B&lt;/summary&gt;
+        - <details><summary>Book 5B</summary>
 
-            - &lt;details&gt;&lt;summary&gt;Chapter 7 Equations of Circles&lt;/summary&gt;
+            - <details><summary>Chapter 7 Equations of Circles</summary>
 
                 - [Book 5B Chapter 7: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048934/5B07_5Min_01e.pptx)
                 - [Book 5B Chapter 7: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048935/5B07_5Min_02e.pptx)
                 - [Book 5B Chapter 7: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048936/5B07_5Min_03e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 8 Locus&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 8 Locus</summary>
 
                 - [Book 5B Chapter 8: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048940/5B08_5Min_01e.pptx)
                 - [Book 5B Chapter 8: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048941/5B08_5Min_02e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 9 Measures of Dispersion&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 9 Measures of Dispersion</summary>
 
                 - [Book 5B Chapter 9: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048942/5B09_5Min_01e.pptx)
                 - [Book 5B Chapter 9: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048943/5B09_5Min_02e.pptx)
                 - [Book 5B Chapter 9: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048944/5B09_5Min_03e.pptx)
                 - [Book 5B Chapter 9: 5-Minute Lecture 04](https://github.com/user-attachments/files/18048945/5B09_5Min_04e.pptx)
                 - [Book 5B Chapter 9: 5-Minute Lecture 05](https://github.com/user-attachments/files/18048946/5B09_5Min_05e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 10 Permutation and Combination&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 10 Permutation and Combination</summary>
 
                 - [Book 5B Chapter 10: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048947/5B10_5Min_01e.pptx)
                 - [Book 5B Chapter 10: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048948/5B10_5Min_02e.pptx)
                 - [Book 5B Chapter 10: 5-Minute Lecture 03](https://github.com/user-attachments/files/18048949/5B10_5Min_03e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 11 More about Probability&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 11 More about Probability</summary>
 
                 - [Book 5B Chapter 11: 5-Minute Lecture 01](https://github.com/user-attachments/files/18048950/5B11_5Min_01e.pptx)
                 - [Book 5B Chapter 11: 5-Minute Lecture 02](https://github.com/user-attachments/files/18048951/5B11_5Min_02e.pptx)
@@ -73,81 +72,81 @@
                 - [Book 5B Chapter 11: 5-Minute Lecture 04](https://github.com/user-attachments/files/18048953/5B11_5Min_04e.pptx)
                 - [Book 5B Chapter 11: 5-Minute Lecture 05](https://github.com/user-attachments/files/18048954/5B11_5Min_05e.pptx)
                 - [Book 5B Chapter 11: 5-Minute Lecture 06](https://github.com/user-attachments/files/18048955/5B11_5Min_06e.pptx)
-                &lt;/details&gt;
-            &lt;/details&gt;
-        - &lt;details&gt;&lt;summary&gt;Book 6A&lt;/summary&gt;
+                </details>
+            </details>
+        - <details><summary>Book 6A</summary>
 
-            - &lt;details&gt;&lt;summary&gt;Chapter 1 Arithmetic and Geometric Sequences&lt;/summary&gt;
+            - <details><summary>Chapter 1 Arithmetic and Geometric Sequences</summary>
 
                 - [Book 6A Chapter 1: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051254/6A01_5Min_01e.pptx)
                 - [Book 6A Chapter 1: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051255/6A01_5Min_02e.pptx)
                 - [Book 6A Chapter 1: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051256/6A01_5Min_03e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 2 Summation of Arithmetic and Geometric Sequences&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 2 Summation of Arithmetic and Geometric Sequences</summary>
 
                 - [Book 6A Chapter 2: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051257/6A02_5Min_01e.pptx)
                 - [Book 6A Chapter 2: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051258/6A02_5Min_02e.pptx)
                 - [Book 6A Chapter 2: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051259/6A02_5Min_03e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 3 More about Graphs of Functions&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 3 More about Graphs of Functions</summary>
 
                 - [Book 6A Chapter 3: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051260/6A03_5Min_01e.pptx)
                 - [Book 6A Chapter 3: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051261/6A03_5Min_02e.pptx)
                 - [Book 6A Chapter 3: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051262/6A03_5Min_03e.pptx)
                 - [Book 6A Chapter 3: 5-Minute Lecture 04](https://github.com/user-attachments/files/18051263/6A03_5Min_04e.pptx)
-                &lt;/details&gt;
-            - &lt;details&gt;&lt;summary&gt;Chapter 4 Uses and Abuses of Statistics&lt;/summary&gt;
+                </details>
+            - <details><summary>Chapter 4 Uses and Abuses of Statistics</summary>
 
                 - [Book 6A Chapter 4: 5-Minute Lecture 01](https://github.com/user-attachments/files/18051264/6A04_5Min_01e.pptx)
                 - [Book 6A Chapter 4: 5-Minute Lecture 02](https://github.com/user-attachments/files/18051265/6A04_5Min_02e.pptx)
                 - [Book 6A Chapter 4: 5-Minute Lecture 03](https://github.com/user-attachments/files/18051266/6A04_5Min_03e.pptx)
-                &lt;/details&gt;
-            &lt;/details&gt;
-        &lt;/details&gt;
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Digital Resources Overview&lt;/summary&gt;
+                </details>
+            </details>
+        </details>
+    </details>
+- <details><summary>Digital Resources Overview</summary>
 
-    - &lt;details&gt;&lt;summary&gt;Junior Secondary Mathematics in Action&lt;/summary&gt;
+    - <details><summary>Junior Secondary Mathematics in Action</summary>
 
-        - [Book 1A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch01_drlist)
-        - [Book 1A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch02_drlist)
-        - [Book 1A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch03_drlist)
-        - [Book 1A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch04_drlist)
-        - [Book 1A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch05_drlist)
-        - [Book 1A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1A_ch06_drlist)
-        - [Book 1B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch07_drlist)
-        - [Book 1B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch08_drlist)
-        - [Book 1B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch09_drlist)
-        - [Book 1B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch10_drlist)
-        - [Book 1B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch11_drlist)
-        - [Book 1B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_1B_ch12_drlist)
-        - [Book 2A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch01_drlist)
-        - [Book 2A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch02_drlist)
-        - [Book 2A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch03_drlist)
-        - [Book 2A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch04_drlist)
-        - [Book 2A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch05_drlist)
-        - [Book 2A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2A_ch06_drlist)
-        - [Book 2B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch07_drlist)
-        - [Book 2B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch08_drlist)
-        - [Book 2B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch09_drlist)
-        - [Book 2B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch10_drlist)
-        - [Book 2B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch11_drlist)
-        - [Book 2B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_2B_ch12_drlist)
-        - [Book 3A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch01_drlist)
-        - [Book 3A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch02_drlist)
-        - [Book 3A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch03_drlist)
-        - [Book 3A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch04_drlist)
-        - [Book 3A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch05_drlist)
-        - [Book 3A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3A_ch06_drlist)
-        - [Book 3B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch07_drlist)
-        - [Book 3B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch08_drlist)
-        - [Book 3B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch09_drlist)
-        - [Book 3B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch10_drlist)
-        - [Book 3B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch11_drlist)
-        - [Book 3B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&amp;originId=JMIAE_3B_ch12_drlist)
-        &lt;/details&gt;
+        - [Book 1A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch01_drlist)
+        - [Book 1A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch02_drlist)
+        - [Book 1A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch03_drlist)
+        - [Book 1A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch04_drlist)
+        - [Book 1A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch05_drlist)
+        - [Book 1A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1A_ch06_drlist)
+        - [Book 1B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch07_drlist)
+        - [Book 1B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch08_drlist)
+        - [Book 1B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch09_drlist)
+        - [Book 1B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch10_drlist)
+        - [Book 1B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch11_drlist)
+        - [Book 1B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_1B_ch12_drlist)
+        - [Book 2A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch01_drlist)
+        - [Book 2A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch02_drlist)
+        - [Book 2A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch03_drlist)
+        - [Book 2A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch04_drlist)
+        - [Book 2A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch05_drlist)
+        - [Book 2A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2A_ch06_drlist)
+        - [Book 2B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch07_drlist)
+        - [Book 2B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch08_drlist)
+        - [Book 2B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch09_drlist)
+        - [Book 2B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch10_drlist)
+        - [Book 2B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch11_drlist)
+        - [Book 2B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_2B_ch12_drlist)
+        - [Book 3A Chapter 01 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch01_drlist)
+        - [Book 3A Chapter 02 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch02_drlist)
+        - [Book 3A Chapter 03 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch03_drlist)
+        - [Book 3A Chapter 04 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch04_drlist)
+        - [Book 3A Chapter 05 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch05_drlist)
+        - [Book 3A Chapter 06 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3A_ch06_drlist)
+        - [Book 3B Chapter 07 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch07_drlist)
+        - [Book 3B Chapter 08 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch08_drlist)
+        - [Book 3B Chapter 09 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch09_drlist)
+        - [Book 3B Chapter 10 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch10_drlist)
+        - [Book 3B Chapter 11 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch11_drlist)
+        - [Book 3B Chapter 12 Digital Resources Overview](https://ds.pearson.com.hk/qr?source=js_MIA&originId=JMIAE_3B_ch12_drlist)
+        </details>
 
-    - &lt;details&gt;&lt;summary&gt;HKDSE Mathematics in Action&lt;/summary&gt;
+    - <details><summary>HKDSE Mathematics in Action</summary>
 
         - [Book 4A - Chapter 01 Quadratic Equations in One Unknown (I) - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A01_DigiRes_overview_E.pdf)
         - [Book 4A - Chapter 02 Quadratic Equations in One Unknown (II) - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_4A02_DigiRes_overview_E.pdf)
@@ -165,9 +164,9 @@
         - [Book 5A - Chapter 04 Linear Programming - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A04_DigiRes_overview_E.pdf)
         - [Book 5A - Chapter 05 Applications of Trigonometry in 2-dimensional Problems - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A05_DigiRes_overview_E.pdf)
         - [Book 5A - Chapter 06 Applications of Trigonometry in 3-dimensional Problems - Digital Resources Overview](https://rdlink.upephk.com/sec-math/HKDSEMIA3e/ebook/Eng/Digital_Resource_Overview/DSEMIA_5A06_DigiRes_overview_E.pdf)
-        &lt;/details&gt;
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;HKDSE Resources&lt;/summary&gt;
+        </details>
+    </details>
+- <details><summary>HKDSE Resources</summary>
 
     - [!中小學數學教師所需的數學知識 (Cabinet 14).pdf](https://github.com/user-attachments/files/17880189/Cabinet.14.pdf)
     - [Explanatory Notes to Senior Secondary Mathematics Curriculum - Compulsory Part](https://github.com/user-attachments/files/17880190/explancp_e.pdf)
@@ -175,9 +174,9 @@
     - More in M1/M2 Mathematics...
 
 
-    &lt;/details&gt;
+    </details>
 
-- &lt;details&gt;&lt;summary&gt;M1/M2 Mathematics&lt;/summary&gt;
+- <details><summary>M1/M2 Mathematics</summary>
 
     - [Herman Yeung YouTube 免費筆記下載 目錄](https://hermanutube.blogspot.com/2016/01/youtube-pdf.html) (A Youtube Channel that Mr. Terry Lam Recommends)
     - [HKEDB - 數學百子櫃系列（二）M1](https://github.com/user-attachments/files/17880212/cabinet.2.pdf)
@@ -185,12 +184,12 @@
     - [HKEDB - Explanatory Notes to Senior Secondary Mathematics Curriculum - Module 1 (Calculus and Statistics)](https://github.com/user-attachments/files/17880219/m1_notes_e.pdf)
     - [HKEDB - Explanatory Notes to Senior Secondary Mathematics Curriculum - Module 2 (Algebra and Calculus)](https://github.com/user-attachments/files/17880222/m2_eng.pdf)
 
-    &lt;/details&gt;
+    </details>
 
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;Science (+ Phy, Chem, Bio)&lt;/summary&gt;
+</details>
+<details><summary>Science (+ Phy, Chem, Bio)</summary>
 
-- &lt;details&gt;&lt;summary&gt;Science Textbook&lt;/summary&gt;
+- <details><summary>Science Textbook</summary>
 
     - Aristo Science for the New Century Book 1A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74219424/34e18e/aristo-science-for-the-new-century-book-1a.html)
     - Aristo Science for the New Century Book 1B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74219988/95abe2/aristo-science-for-the-new-century-book-1b.html)
@@ -199,10 +198,10 @@
     - Aristo Science for the New Century Book 3A：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74222963/88965f/aristo-science-for-the-new-century-book-3a.html)
     - Aristo Science for the New Century Book 3B：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74226518/51328a/aristo-science-for-the-new-century-book-3b.html)
     - Aristo Science for the New Century Book 3C：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/74225639/fac198/aristo-science-for-the-new-century-book-3c.html)
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Physics Reference Books&lt;/summary&gt;
+    </details>
+- <details><summary>Physics Reference Books</summary>
 
-    - Active Physics for HKDSE Book 1：Heat &amp; Gases (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60536729/1c6568/active-physics-for-hkdse-book-1heat-gases-compulsory-part.html)
+    - Active Physics for HKDSE Book 1：Heat & Gases (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60536729/1c6568/active-physics-for-hkdse-book-1heat-gases-compulsory-part.html)
     - Active Physics for HKDSE Book 2：Force and Motion (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60540538/2ee904/active-physics-for-hkdse-book-2force-and-motion-compulsory-part.html)
     - Active Physics for HKDSE Book 3：Wave Motion (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60545883/40d9e4/active-physics-for-hkdse-book-3wave-motion-compulsory-part.html)
     - Active Physics for HKDSE Book 4：Electricity and Magnetism (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60556187/6e00f3/active-physics-for-hkdse-book-4electricity-and-magnetism-compulsory-part.html)
@@ -212,8 +211,8 @@
     - Active Physics for HKDSE Book 8：Energy and Use of Energy (Elective Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60567982/5cd452/active-physics-for-hkdse-book-8energy-and-use-of-energy-elective-part.html)
     - Active Physics for HKDSE Book 9：Medical Physics (Elective Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/60572131/991106/active-physics-for-hkdse-book-9medical-physics-elective-part.html)
    
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Biology Revision Notes&lt;/summary&gt;
+    </details>
+- <details><summary>Biology Revision Notes</summary>
 
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 1](https://github.com/user-attachments/files/18142652/New.Senior.Secondary.Mastering.Biology.Revision.Notes.Chapter.1.pdf)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 2](https://www.scribd.com/document/804928499/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-2)
@@ -256,8 +255,8 @@
     - [New Senior Secondary Mastering Biology Revision Notes Elective 3 Chapter 3](https://www.scribd.com/document/804928524/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-3-Chapter-3)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 4 Chapter 1](https://www.scribd.com/document/804928512/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-4-Chapter-1)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 4 Chapter 2](https://www.scribd.com/document/804928533/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-4-Chapter-2)   
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Chemistry Reference Books&lt;/summary&gt;
+    </details>
+- <details><summary>Chemistry Reference Books</summary>
 
     - [Jing Kung New 21st Century Chemistry 1A (Planet Earth)](https://annas-archive.org/md5/908f7013fa63b2bf20e80a0259b5e3d5)
     - [Jing Kung New 21st Century Chemistry 1B (Microscopic World I)](https://annas-archive.org/md5/8a88679b714084ce9416837b48332001)
@@ -272,24 +271,24 @@
     - [Jing Kung New 21st Century Chemistry 4B (Chemical Equilibrium)](https://annas-archive.org/md5/a034562520e35c2513fa5b14bf99fcb4)
     - [Jing Kung New 21st Century Chemistry 5 (Patterns in the Chemical World)](https://annas-archive.org/md5/a7b93329a4d20a0afdf08f90d5b38bb5)
 
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;HKDSE Resources&lt;/summary&gt;
+    </details>
+- <details><summary>HKDSE Resources</summary>
 
     - [Science(S1-3)_supp_e_2017.pdf](https://github.com/user-attachments/files/17880299/Science.S1-3._supp_e_2017.pdf)
    
-    &lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;ICT&lt;/summary&gt;
+    </details>
+</details>
+<details><summary>ICT</summary>
 
-- &lt;details&gt;&lt;summary&gt;Junior Secondary Books&lt;/summary&gt;
+- <details><summary>Junior Secondary Books</summary>
 
     - The New Era of ICT - Google Drive for Project Management：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56955085/6a41a5/the-new-era-of-ict-google-drive-for-project-management.html)
     - ICT for iGeneration - Computer Systems：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56958421/2a8171/ict-for-igeneration-computer-systems-f1f3.html)
     - The New Era of ICT - App Development - App Inventor 2：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56961152/543349/the-new-era-of-ict-app-development-app-inventor-2.html)
     - ICT for iGeneration - Computer Networks：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56963837/44ef0e/ict-for-igeneration-computer-networks.html)
     - ICT for iGeneration - AI and Python：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56967948/6cb1b7/ict-for-igeneration-ai-and-python.html)
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Senior Secondary Books (ICT for iGeneration)&lt;/summary&gt;
+    </details>
+- <details><summary>Senior Secondary Books (ICT for iGeneration)</summary>
 
     - [Information Processing (Compulsory A1)](https://annas-archive.org/md5/6f35ab9a6fbb7800c8b7407c2d753724)
     - Information Processing (Compulsory A2)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56650854/433b88/ict-for-igeneration-information-processing-compulsory-a2.html)
@@ -302,37 +301,37 @@
     - [Databases (Elective A)](https://annas-archive.org/md5/549b4dca6fcf855b671e450c472ba426)
     - [Web Application Development (Elective B)](https://annas-archive.org/md5/a319a322e99b531c2d9b5eff14c8305f)
     - Algorithm and Programming (Elective C)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56715300/998526/ict-for-igeneration-algorithm-and-programming-elective-c.html)
-    &lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;Senior Secondary Books (Modern Senior Secondary ICT)&lt;/summary&gt;
+    </details>
+- <details><summary>Senior Secondary Books (Modern Senior Secondary ICT)</summary>
 
     - Module A: Information Processing (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56975031/43b733/modern-senior-secondary-information-and-communication-technology-module-a-information-processing-c.html)
     - Module B: Computer System Fundamentals (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56978781/d681b4/modern-senior-secondary-information-and-communication-technology-module-b-computer-system-fundament.html)
     - Module C: Internet and its Applications (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56983357/c5dfd8/modern-senior-secondary-information-and-communication-technology-module-c-internet-and-its-applicat.html)
     - Module D: Computational Thinking and Programming (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56989444/8b41e0/modern-senior-secondary-information-and-communication-technology-module-d-computational-thinking-an.html)
     - Module E: Social Implications (Compulsory Part)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/56992033/a99fe5/modern-senior-secondary-information-and-communication-technology-module-e-social-implications-comp.html)
-    &lt;/details&gt;
-&lt;/details&gt;
+    </details>
+</details>
 
-&lt;details&gt;&lt;summary&gt;Chinese History&lt;/summary&gt;
+<details><summary>Chinese History</summary>
 
-- &lt;details&gt;&lt;summary&gt;HKDSE Resources&lt;/summary&gt;
+- <details><summary>HKDSE Resources</summary>
 
     - [Chinese_History_Framework_Bilingual_r.pdf](https://github.com/user-attachments/files/17880161/Chinese_History_Framework_Bilingual_r.pdf)
     - [HKDSE_SCHist_map.pdf](https://github.com/user-attachments/files/17880163/HKDSE_SCHist_map.pdf)
 
-    &lt;/details&gt;
+    </details>
 
-- &lt;details&gt;&lt;summary&gt;電子書&lt;/summary&gt;
+- <details><summary>電子書</summary>
 
     - 現代初中中國歷史（中一）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42264140/576158/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%80.html)
     - 現代初中中國歷史（中二）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/41268157/032d03/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%BA%8C.html)
     - 現代初中中國歷史（中三）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/42828773/299871/%E7%8F%BE%E4%BB%A3%E5%88%9D%E4%B8%AD%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%B8%AD%E4%B8%89.html)
 
-    &lt;/details&gt;
+    </details>
 
-- &lt;details&gt;&lt;summary&gt;F.1-3 Publisher's Notes&lt;/summary&gt;
+- <details><summary>F.1-3 Publisher's Notes</summary>
 
-    - &lt;details&gt;&lt;summary&gt;Modified Notes (common_notes)&lt;/summary&gt;
+    - <details><summary>Modified Notes (common_notes)</summary>
 
         - [common_notes_F1_S_Mod.pdf](https://github.com/user-attachments/files/17786762/common_notes_F1_S_Mod.pdf)
         - [common_notes_F2_S_Mod.pdf](https://github.com/user-attachments/files/17786799/common_notes_F2_S_Mod.pdf)
@@ -341,28 +340,28 @@
         - [F.2 UT Chinese History Rev. WS.pdf](https://github.com/user-attachments/files/17786851/F.2.UT.Chinese.History.Rev.WS.pdf)
         - [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/17786852/F.2_Notes_Mod_For_MYE_Prediction.pdf)
 
-        &lt;/details&gt;
+        </details>
 
-    - &lt;details&gt;&lt;summary&gt;DOCXs (studentnote)&lt;/summary&gt;
+    - <details><summary>DOCXs (studentnote)</summary>
 
         - [studentnote_1.docx](https://github.com/user-attachments/files/17786875/studentnote_1.docx)
         - [studentnote_2.docx](https://github.com/user-attachments/files/17786877/studentnote_2.docx)
         - [studentnote_310.docx](https://github.com/user-attachments/files/17786878/studentnote_310.docx)
 
-        &lt;/details&gt;
+        </details>
 
-    - &lt;details&gt;&lt;summary&gt;PDFs (studentnote)&lt;/summary&gt;
+    - <details><summary>PDFs (studentnote)</summary>
 
         - [studentnote_1.pdf](https://github.com/user-attachments/files/17786883/studentnote_1.pdf)
         - [studentnote_2.pdf](https://github.com/user-attachments/files/17786890/studentnote_2.pdf)
         - [studentnote_310.pdf](https://github.com/user-attachments/files/17786892/studentnote_310.pdf)
 
-        &lt;/details&gt;
+        </details>
 
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;History&lt;/summary&gt;
+</details>
+<details><summary>History</summary>
 
-- &lt;details&gt;&lt;summary&gt;Publisher's Study Notes&lt;/summary&gt;
+- <details><summary>Publisher's Study Notes</summary>
 
     - [HIST_SN_T1_E_ST.pdf](https://github.com/user-attachments/files/17880117/HIST_SN_T1_E_ST.pdf)
     - [HIST_SN_T2_E_ST.pdf](https://github.com/user-attachments/files/17880119/HIST_SN_T2_E_ST.pdf)
@@ -380,22 +379,22 @@
     - [HN3A_T10_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880137/HN3A_T10_SN_ST.Fill.in.the.Blanks.pdf)
     - [HN3B_T11_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880142/HN3B_T11_SN_ST.Fill.in.the.Blanks.pdf)
     - [HN3B_T12_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880144/HN3B_T12_SN_ST.Fill.in.the.Blanks.pdf)
-    &lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;&lt;summary&gt;RE&lt;/summary&gt;
+    </details>
+</details>
+<details><summary>RE</summary>
 
 - [Shalom (Vocab List).pdf](https://github.com/user-attachments/files/17969317/Shalom.Vocab.List.pdf)
 - [Shalom Textbook.pdf](https://github.com/user-attachments/files/17927366/Shalom.Texbook.pdf)
-&lt;/details&gt;
-&lt;details open&gt;&lt;summary&gt;La Salle College Documents&lt;/summary&gt;
+</details>
+<details open><summary>La Salle College Documents</summary>
 	
-- &lt;details&gt;&lt;summary&gt;F.2 Student Handbook, Timetable, Email list&lt;/summary&gt;
+- <details><summary>F.2 Student Handbook, Timetable, Email list</summary>
 	
 	- [La Salle College F.2 Student Handbook](https://github.com/user-attachments/files/18110609/Student.Handbook.24-25.pdf)
  	- [2024-25 F.2 Class Timetable](https://github.com/user-attachments/files/18110625/2024-25.Class.Timtable_F2_updated.pdf)
         - [2024-25 F.2 Emails (hkmusic.com.hk)](https://drive.google.com/file/d/1SyJalHJpUiCvGfaD1AJrTb8DA1Ae4sGV/view)
-	&lt;/details&gt;
-- &lt;details&gt;&lt;summary&gt;24-25 F.2 Programme Outline&lt;/summary&gt;
+	</details>
+- <details><summary>24-25 F.2 Programme Outline</summary>
 	
 	- [F.1-3 Chinese Programme Outline](https://github.com/user-attachments/files/18110394/2024-25.Chi.F.1-3.Programme.Outline.pdf)
 	- [F.2 English Programme Outline](https://github.com/user-attachments/files/18110396/2024-25.Eng.F.2.Programme.Outline.pdf)
@@ -410,72 +409,10 @@
 	- [F.2 RE Programme Outline](https://github.com/user-attachments/files/18110390/2024-25.RE.F.2.Programme.Outline.pdf)
 	- [F.1-6 French Programme Outline](https://github.com/user-attachments/files/18110397/2024-25.French.F.1-6.Programme.Outline.pdf)
 	- [F.2 Chinese for NCS Programme Outline](https://github.com/user-attachments/files/18110385/2024-25.NCS.Chin.F.2.Programme.outline.pdf)
-	- [F.1-6 D&amp;T Programme Outline](https://github.com/user-attachments/files/18110395/2024-25.DAT.F.1-6.Programme.Outline.pdf)
+	- [F.1-6 D&T Programme Outline](https://github.com/user-attachments/files/18110395/2024-25.DAT.F.1-6.Programme.Outline.pdf)
 	- [F.2 LAC Programme Outline](https://github.com/user-attachments/files/18110380/2024-25.LAC.F.2.Programme.Outline.pdf)
 	- [F.2 Music Programme Outline](https://github.com/user-attachments/files/18110382/2024-25.Music.F.2.Programme.Outline.pdf)
 	- [F.2 Visual Arts Programme Outline](https://github.com/user-attachments/files/18110392/2024-25.VA.F.2.Programme_Outline.pdf)
 	- [F.2 PE Programme Outline](https://github.com/user-attachments/files/18110387/2024-25.PE.F.2.Programme.Outline.pdf)
-	&lt;/details&gt;
-&lt;/details&gt;。</description><guid isPermaLink="true">https://docs.perseusstudy.us.kg//post/An%20incomplete%20Table%20of%20Contents%20of%20Resources.html</guid><pubDate>Tue, 11 Feb 2025 04:55:23 +0000</pubDate></item><item><title>How to play mobile games on MacBook?</title><link>https://docs.perseusstudy.us.kg//post/How%20to%20play%20mobile%20games%20on%20MacBook-.html</link><description>Playcover -&gt; Decrypt IPA Store -&gt; Install -&gt; Keymap -&gt; Play&#13;
-&#13;
-Playcover: https://playcover.io&#13;
-Decrypt IPA Store: https://decrypt.day。</description><guid isPermaLink="true">https://docs.perseusstudy.us.kg//post/How%20to%20play%20mobile%20games%20on%20MacBook-.html</guid><pubDate>Fri, 29 Nov 2024 03:10:41 +0000</pubDate></item><item><title>F.2 2024-2025 Mid-year Revision Worksheets</title><link>https://docs.perseusstudy.us.kg//post/F.2%202024-2025%20Mid-year%20Revision%20Worksheets.html</link><description>[F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/17941061/F.2_Notes_Mod_For_MYE_Prediction.pdf)&#13;
-[2024-25 Form 2 Mid-Year Exam Syllabus (Reformatted + Date).pdf](https://github.com/user-attachments/files/18015431/2024-25.Form.2.Mid-Year.Exam.Syllabus.Reformated.%2B.Date.pdf)&#13;
-&#13;
-Check this blog and '24-25 F.2 UT/MYE Revision WS Progress' blog.。</description><guid isPermaLink="true">https://docs.perseusstudy.us.kg//post/F.2%202024-2025%20Mid-year%20Revision%20Worksheets.html</guid><pubDate>Thu, 21 Nov 2024 12:33:51 +0000</pubDate></item><item><title>10 seconds Mental Timer Challenge</title><link>https://docs.perseusstudy.us.kg//post/10%20seconds%20Mental%20Timer%20Challenge.html</link><description>[10 seconds Mental Timer Challenge](https://script.google.com/a/macros/lsc.hk/s/AKfycbywa7P1yzVcLIEldZe_FsdkuEk9tL7KWqtWzChc-4hZAW1yuT-2jrD0XQpYEx6mXu5r/exec?authuser=0) &#13;
-&gt; If you perfer self-hosted version (Reverse Engineered by Perseus): [10 seconds Mental Timer Challenge](/assets/files/10sTimer.html)&#13;
-&#13;
-&gt; [!NOTE]&#13;
-&gt; The creator of the timer challenge is Mr. Terry Lam, a teacher who teaches Math in La Salle College.&#13;
-&gt; The purpose of this program is to teach students about Errors in Measurements.&#13;
-&gt; His Github page: https://github.com/khtlamlsc (Comfirmed) &amp; https://github.com/khtlam (Assume to be)&#13;
-&gt; One of Mr. Terry Lam's interview: [Lasallian Festival 2022 · The Interview - excerpt](https://github.com/user-attachments/assets/1ffe8b0d-ac30-461c-8753-08a4c369881c)&#13;
-&gt; His usual Profile Pic:&#13;
-&gt; ![khtlamlsc](https://github.com/user-attachments/assets/03a01e34-49f7-4a72-8053-c0535d2ac143)。</description><guid isPermaLink="true">https://docs.perseusstudy.us.kg//post/10%20seconds%20Mental%20Timer%20Challenge.html</guid><pubDate>Tue, 15 Oct 2024 08:20:21 +0000</pubDate></item><item><title>24-25 F.2 UT/MYE Revision WS Progress</title><link>https://docs.perseusstudy.us.kg//post/24-25%20F.2%20UT-MYE%20Revision%20WS%20Progress.html</link><description>&gt; [!NOTE] &#13;
-&gt; ### List of finished Rev. WS&#13;
-&gt; - Math (UT): [F.2 T1 UT Mathematics Chapter Summary.pdf](https://github.com/user-attachments/files/17362203/F.2.T1.UT.Mathematics.Chapter.Summary.pdf)&#13;
-&gt; - Math (MYE): [F.2 MYE Mathematics Chapter Summary.pdf](https://github.com/user-attachments/files/17341833/F.2.MYE.Mathematics.Chapter.Summary.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - Science (MYE, Publisher's Unit Summary): [Science_2A_Book_Mod_MYE.pdf](https://github.com/user-attachments/files/17629764/Science_2A_Book_Mod_MYE.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt;     - Science (UT) [F.2 UT Science Revision Worksheet.pdf](https://github.com/user-attachments/files/17630058/F.2.UT.Science.Revision.Worksheet.pdf)&#13;
-&gt;     - (MYE) Unit 7&#13;
-[[Unit 7] 2425 F2 MYE SCI Rev. WS.pdf](https://github.com/user-attachments/files/18021499/Unit.7.2425.F2.MYE.SCI.Rev.WS.pdf)&#13;
-(Password can be found in google chat) Unit 8 not yet finished (Will be based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - Chinese History (UT, Publisher's Notes): [F.2 UT Chinese History Rev. WS.pdf](https://lschk-my.sharepoint.com/:b:/g/personal/s23218_lsc_hk/EeclMhqE8_pJjcGdyhmI-3QBuh0QJATstjeAuLLy4jn4sQ?e=a3Oo1f)&#13;
-&gt; - Chinese History (MYE, Publisher's Notes): [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/18069514/F.2_Notes_Mod_For_MYE_Prediction.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - Geography (More than MYE, Publisher's Notes): [WS_Part5_TE_e.pdf](https://lschk-my.sharepoint.com/:b:/g/personal/s23218_lsc_hk/EfMK1fCrnMRJvNnQd47DzScBoqoNyyptyWKhFdBfysmCEQ)&#13;
-&gt;     - Perseus' Study Version Coming Soon... (Will be based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - History (MYE, Publisher's Notes): [HN2A_SN_T5_ST_Mod.pdf](https://lschk-my.sharepoint.com/:b:/g/personal/s23218_lsc_hk/EeTuxUJlrcBAtc8QPSjYeCoB5xdGopAajUizpeazkIp3iw?e=B73j71) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt;     - Perseus' Study Version Coming Soon... (Will be based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - ICT (MYE, Not finalized, Good enough): [F.2 MYE ICT Revison Worksheet.pdf](https://github.com/user-attachments/files/17532881/F.2.MYE.ICT.Revison.Worksheet.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-&gt; - Life &amp; Society (UT): [F.2 UT Life &amp; Society Revsion Worksheet.pdf](https://github.com/user-attachments/files/17606736/F.2.UT.Life.Society.Revsion.Worksheet.pdf)&#13;
-&gt; - Lift &amp; Society (MYE): [F.2 MYE Life &amp; Society Revsion Worksheet.pdf](https://github.com/user-attachments/files/18343598/F.2.MYE.Life.Society.Revsion.Worksheet.pdf)&#13;
-&#13;
-&gt; [!TIP]&#13;
-&gt; These materials are not included in the 'Confidentiality of Study Material' so freely copy, remix and share it to others.&#13;
-### Work distribution&#13;
-- [x] CHI: /&#13;
-- [x] ENG: /&#13;
-- [x] MATH: LPR (Summary) [F.2 T1 UT Mathematics Chapter Summary.pdf](https://github.com/user-attachments/files/17362203/F.2.T1.UT.Mathematics.Chapter.Summary.pdf)&lt;br&gt;[F.2 MYE Mathematics Chapter Summary.pdf](https://github.com/user-attachments/files/17341833/F.2.MYE.Mathematics.Chapter.Summary.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-- [ ] SCI: &#13;
-[[Unit 7] 2425 F2 MYE SCI Rev. WS.pdf](https://github.com/user-attachments/files/18021516/Unit.7.2425.F2.MYE.SCI.Rev.WS.pdf)&#13;
-(Passwords can be found in Google chat) (Unit 7)/LPR (Unit 8)：[Science_2A_Book_Mod_MYE.pdf](https://github.com/user-attachments/files/17629764/Science_2A_Book_Mod_MYE.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-    - [F.2 UT Science Revision Worksheet.pdf](https://github.com/user-attachments/files/17630058/F.2.UT.Science.Revision.Worksheet.pdf)&#13;
-    - Perseus' Study Version In Progress: [Live Update of F.2 MYE Sci Rev. WS](https://lschk-my.sharepoint.com/:w:/g/personal/s23218_lsc_hk/EeCzvok4rVVBkuuGdI8_CzQBn0ILV1-tW_KFqFtCQ_RyAA?e=14Fm4W)&#13;
-- [x] Fr: / &#13;
-- [x] CHI HIS: LPR (Publisher Notes): [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/18069518/F.2_Notes_Mod_For_MYE_Prediction.pdf) (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-- [ ] GEOG: ? [WS_Part5_TE_e.pdf](https://lschk-my.sharepoint.com/:b:/g/personal/s23218_lsc_hk/EfMK1fCrnMRJvNnQd47DzScBoqoNyyptyWKhFdBfysmCEQ) (More than MYE, Publisher's Notes)&#13;
-    - Perseus' Study Ver. Coming Soon...&#13;
-- [ ] HIS: Hammond (6-23): [HN2A_SN_T5_ST_Mod.pdf](https://github.com/user-attachments/files/17629668/HN2A_SN_T5_ST_Mod.pdf), Publisher's Notes (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-    - Perseus' Study Ver. Coming Soon...&#13;
-- [ ] ICT: LPR(ALL): [F.2 MYE ICT Revison Worksheet.pdf](https://github.com/user-attachments/files/17532881/F.2.MYE.ICT.Revison.Worksheet.pdf), Not finalized but Good enough (Based on [Prediction](https://github.com/user-attachments/files/17629733/23-24.F.2.MYE.Syllabus.Prediction.pdf))&#13;
-    - Word (.docx) Version: [F.2 MYE ICT Revison Worksheet.docx](https://github.com/user-attachments/files/17532883/F.2.MYE.ICT.Revison.Worksheet.docx)&#13;
-- [x] L&amp;S: Ch.1 Hammond, Ch.2 LPR [M24]/ LPR (U1 P.5-14) [M16]：[F.2 UT Life &amp; Society Revsion Worksheet.pdf](https://github.com/user-attachments/files/17606736/F.2.UT.Life.Society.Revsion.Worksheet.pdf)&#13;
-[F.2 MYE Life &amp; Society Revsion Worksheet.pdf](https://github.com/user-attachments/files/18343598/F.2.MYE.Life.Society.Revsion.Worksheet.pdf)&#13;
-- [x] NCS CHI: /&#13;
-- [x] PTH: /&#13;
-- [ ] RE: ?&#13;
-&#13;
-&gt; [!NOTE]&#13;
-&gt; [24-25 F.2 UT Syllbus ＆ Timetable.pdf](https://github.com/user-attachments/files/17532880/24-25.F.2.UT.Syllbus.Timetable.pdf)&#13;
-&gt; [2024-25 Form 2 Mid-Year Exam Syllabus (Reformatted + Date).pdf](https://github.com/user-attachments/files/18015431/2024-25.Form.2.Mid-Year.Exam.Syllabus.Reformated.%2B.Date.pdf)&#13;
-&gt; If you have any notes of your own to share, we'll be glad to take a peek at it, just send an email to perseus@lscstudy.us.kg.。</description><guid isPermaLink="true">https://docs.perseusstudy.us.kg//post/24-25%20F.2%20UT-MYE%20Revision%20WS%20Progress.html</guid><pubDate>Tue, 08 Oct 2024 05:48:42 +0000</pubDate></item></channel></rss>
+	</details>
+</details>
