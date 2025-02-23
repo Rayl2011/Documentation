@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Documentation</title><link>https://docs.perseusstudy.us.kg/</link><description>Unlimited Advancement; Build for Perseus Study</description><copyright>Documentation</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.png</url><title>avatar</title><link>https://docs.perseusstudy.us.kg/</link></image><lastBuildDate>Tue, 11 Feb 2025 16:14:14 +0000</lastBuildDate><managingEditor>Documentation</managingEditor><ttl>60</ttl><webMaster>Documentation</webMaster><item><title>Perseus' Study FAQ</title><link>https://docs.perseusstudy.us.kg//post/Perseus%27%20Study%20FAQ.html</link><description>## Who is Perseus?
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Documentation</title><link>https://docs.perseusstudy.us.kg/</link><description>Unlimited Advancement; Build for Perseus Study</description><copyright>Documentation</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.png</url><title>avatar</title><link>https://docs.perseusstudy.us.kg/</link></image><lastBuildDate>Sun, 23 Feb 2025 16:11:25 +0000</lastBuildDate><managingEditor>Documentation</managingEditor><ttl>60</ttl><webMaster>Documentation</webMaster><item><title>Perseus' Study FAQ</title><link>https://docs.perseusstudy.us.kg//post/Perseus%27%20Study%20FAQ.html</link><description>## Who is Perseus?
 Hi! I am Lee Perseus Robin (Email: perseus@lscstudy.us.kg, 24-25 2G-16). Feel free to contact me!
 ## What is Perseus' Study?
 Perseus' Study is a group for all of La Salle College (Hong Kong), aiming to support individuals needs with any academic obstacles they may face, whether through online lessons, comprehensive study notes, or collaborative discussions.
@@ -250,7 +250,13 @@ Last updated: 15th January, 2025 14:52 (Sun)。</description><guid isPermaLink="
 
 
     &lt;/details&gt;
+- &lt;details&gt;&lt;summary&gt;LSC Resources&lt;/summary&gt;
 
+    - [Mr. Terry Lam's Youtube Channel](https://www.youtube.com/@terrylammath/playlists)
+    - [Mr. Terry Lam's F2, F3, F5 Term 1 Math Notes](https://khtlamlsc.github.io/mathnotes/)
+    - [Mr. Terry Lam's Github][https://github.com/khtlamlsc]
+
+    &lt;/details&gt;
 - &lt;details&gt;&lt;summary&gt;M1/M2 Mathematics&lt;/summary&gt;
 
     - [Herman Yeung YouTube 免費筆記下載 目錄](https://hermanutube.blogspot.com/2016/01/youtube-pdf.html) (A Youtube Channel that Mr. Terry Lam Recommends)
