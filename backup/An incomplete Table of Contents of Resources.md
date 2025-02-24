@@ -179,7 +179,7 @@
 
     - [Mr. Terry Lam's Youtube Channel](https://www.youtube.com/@terrylammath/playlists)
     - [Mr. Terry Lam's F2, F3, F5 Term 1 Math Notes](https://khtlamlsc.github.io/mathnotes/)
-    - [Mr. Terry Lam's Github][https://github.com/khtlamlsc]
+    - [Mr. Terry Lam's Github](https://github.com/khtlamlsc)
 
     </details>
 - <details><summary>M1/M2 Mathematics</summary>
