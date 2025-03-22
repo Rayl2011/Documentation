@@ -315,6 +315,10 @@
     </details>
 - <details><summary>Science Workbook Answers</summary>
 
+    - Aristo Science for the New Century Assignment Book 1A: [Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/116566892/660cee/aristo-science-for-the-new-century-assignment-book-1a.html)
+    - Aristo Science for the New Century Assignment Book 1B: [Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/116566886/7c1df1/aristo-science-for-the-new-century-assignment-book-1b.html)
+    - Aristo Science for the New Century Assignment Book 2A: [Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/116566873/4f3b01/aristo-science-for-the-new-century-assignment-book-2a.html)
+    - Aristo Science for the New Century Assignment Book 2B: [Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/book/116421522/d3ee57/aristo-science-for-the-new-century-assignment-book-2b.html)
     - [Aristo Science for the New Century Assignment Book 2A Unit 7 Answers](https://www.scribd.com/document/799093601/Aristo-Science-for-the-New-Century-Assignment-Book-2A-Unit-7-Answers)
     - [Aristo Science for the New Century Assignment Book 2A Unit 8 Answers](https://www.scribd.com/document/799093954/Aristo-Science-for-the-New-Century-Assignment-Book-2A-Unit-8-Answers)
     - [Aristo Science for the New Century Assignment Book 2B Unit 9 Answers](https://www.scribd.com/document/799094039/Aristo-Science-for-the-New-Century-Assignment-Book-2B-Unit-9-Answers)
