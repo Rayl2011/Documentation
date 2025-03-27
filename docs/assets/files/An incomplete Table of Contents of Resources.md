@@ -45,7 +45,33 @@
     </details>
 </details>
 <details><summary>Mathematics</summary>
+	
+- <details><summary>Textbooks</summary>
 
+    - <details><summary>Junior Secondary Mathematics in Action</summary>
+        
+        - [Junior Secondary Mathematics in Action 1A](https://z-lib.fm/book/116609063/48c86a/junior-secondary-mathematics-in-action-1a.html)
+        - [Junior Secondary Mathematics in Action 1B](https://z-lib.fm/book/116609064/59183d/junior-secondary-mathematics-in-action-1b.html)
+        - [Junior Secondary Mathematics in Action 2A](https://z-lib.fm/book/82908030/c7b631/junior-secondary-mathematics-in-action-2a.html)
+        - [Junior Secondary Mathematics in Action 2B](https://z-lib.fm/book/82931248/c64a7e/junior-secondary-mathematics-in-action-2b.html)
+        - [Junior Secondary Mathematics in Action 3A](https://z-lib.fm/book/82913382/54e88b/junior-secondary-mathematics-in-action-3a.html)
+        - [Junior Secondary Mathematics in Action 3B](https://z-lib.fm/book/82917071/dbdb86/junior-secondary-mathematics-in-action-3b.html)
+        </details>
+
+    - <details><summary>HKDSE Mathematics in Action</summary>
+
+        - [HKDSE Mathematics in Action (Compulsory Part) 4A](https://z-lib.fm/book/93739626/77b0f8/hkdse-mathematics-in-action-compulsory-part-4a.html)
+        - [HKDSE Mathematics in Action (Compulsory Part) 4B](https://z-lib.fm/book/110056420/8308a5/hkdse-mathematics-in-action-book-4b.html)
+        - [HKDSE Mathematics in Action (Compulsory Part) 5A](https://z-lib.fm/book/115802361/85247e/hkdse-mathematics-in-action-book-5a.html)
+        </details>
+
+    - <details><summary>New Senior Secondary Mathematics in Action</summary>
+
+        - [New Senior Secondary Mathematics in Action Book 5B](https://z-lib.fm/book/115802371/ee33b7/new-senior-secondary-mathematics-in-action-book-5b.html)
+        - [New Senior Secondary Mathematics in Action Book 6A](https://z-lib.fm/book/115802431/55f239/new-senior-secondary-mathematics-in-action-book-6a.html)
+        </details>
+
+    </details>
 - <details><summary>Textbook Answers</summary>
 
     - <details><summary>Junior Secondary Mathematics in Action</summary>
@@ -439,7 +465,7 @@
 </details>
 <details><summary>Geography</summary>
 
-- <details><summary>Geography Textbook</summary>
+- <details><summary>Junior Secondary Geography Textbook</summary>
 
     - [Junior Secondary Exploring Geography Book 1 - Using urban space wisely](https://z-lib.fm/book/29297431/cb21a8/junior-secondary-exploring-geography-book-1-using-urban-space-wisely.html)
     - [Junior Secondary Exploring Geography Book 2 - Scramble for energy](https://z-lib.fm/book/29297467/bb4523/junior-secondary-exploring-geography-book-2-scramble-for-energy.html)
@@ -455,7 +481,7 @@
     - [Junior Secondary Exploring Geography Map Reading Skills 1](https://z-lib.fm/book/29306012/83c54e/junior-secondary-exploring-geography-mapreading-skills-book-1.html)
     - [Junior Secondary Exploring Geography Map Reading Skills 2](https://z-lib.fm/book/87511313/ed1663/junior-secondary-exploring-geography-map-reading-skills-2.html)
     </details>
-- <details><summary>Geography Workbook</summary>
+- <details><summary>Junior Secondary Geography Workbook</summary>
 
     - [Junior Secondary Exploring Geography Workbook 1 - Using urban space wisely](https://www.scribd.com/document/803503255/Junior-Secondary-Exploring-Geography-Workbook-1-Using-Urban-Space-Wisely-With-Answers)
     - [Junior Secondary Exploring Geography Workbook 2 - Scramble for energy](https://www.scribd.com/document/803503250/Junior-Secondary-Exploring-Geography-Workbook-2-Scramble-for-Energy-With-Answers)
@@ -468,6 +494,22 @@
     - [Junior Secondary Exploring Geography Workbook 9 (Elective) - Population problems](https://www.scribd.com/document/803503253/Junior-Secondary-Exploring-Geography-Workbook-9-Elective-Population-Problems-With-Answers)
     - [Junior Secondary Exploring Geography Workbook 10 (Elective) - Taming the sand](https://www.scribd.com/document/803503258/Junior-Secondary-Exploring-Geography-Workbook-10-Elective-Taming-the-Sand-With-Answers)
     - [Junior Secondary Exploring Geography Workbook 11 (Elective) - Changing climate, changing environments](https://www.scribd.com/document/803503251/Junior-Secondary-Exploring-Geography-Workbook-11-Elective-Changing-Climate-Changing-Environments-With-Answers)
+    </details>
+- <details><summary>Senior Secondary Geography Textbook</summary>
+
+    - [Senior Secondary Exploring Geography Part 1: Opportunities and risks (2024 RMA, Modular)](https://z-lib.fm/book/116635281/4d2510/senior-secondary-exploring-geography-part-1-opportunities-and-risks-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography Part 2: Managing river and coastal environments (2024 RMA, Modular)](https://z-lib.fm/book/116635272/cd4d8b/senior-secondary-exploring-geography-part-2-managing-river-and-coastal-environments-2024-rma-modu.html)
+    - [Senior Secondary Exploring Geography Part 3: Changing industrial location (2024 RMA, Modular)](https://z-lib.fm/book/116635270/cd4b2b/senior-secondary-exploring-geography-part-3-changing-industrial-location-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography Part 4: Building a sustainable city (2024 RMA, Modular)](https://z-lib.fm/book/116635271/88ee0d/senior-secondary-exploring-geography-part-4-building-a-sustainable-city-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography Part 5: Combating famine (2024 RMA, Modular)](https://z-lib.fm/book/116635273/733e1c/senior-secondary-exploring-geography-part-5-combating-famine-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography Part 6: Disappearing green canopy (2024 RMA, Modular)](https://z-lib.fm/book/116635274/4be499/senior-secondary-exploring-geography-part-6-disappearing-green-canopy-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography Part 7: Climate change (2024 RMA, Modular)](https://z-lib.fm/book/116635282/617359/senior-secondary-exploring-geography-part-7-climate-change-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography (Elective) Book 4: Dynamic Earth (2024 RMA)](https://z-lib.fm/book/116635275/ce2f50/senior-secondary-exploring-geography-elective-book-4-dynamic-earth-2024-rma.html)
+    - [Senior Secondary Exploring Geography (Elective) Book 5: Weather and climate (2024 RMA)](https://z-lib.fm/book/116635276/7c0273/senior-secondary-exploring-geography-elective-book-5-weather-and-climate-2024-rma.html)
+    - [Senior Secondary Exploring Geography (Elective) Book 6: Transport development, planning and management (2024 RMA)](https://z-lib.fm/book/116635277/a7d610/senior-secondary-exploring-geography-elective-book-6-transport-development-planning-and-manageme.html)
+    - [Senior Secondary Exploring Geography (Elective) Book 7: A regional study of the Zhujiang Delta (2024 RMA)](https://z-lib.fm/book/116635278/53dfd9/senior-secondary-exploring-geography-elective-book-7-a-regional-study-of-the-zhujiang-delta-2024.html)
+    - [Senior Secondary Exploring Geography - Geographical skills (2024 RMA, Modular)](https://z-lib.fm/book/116635279/ca04f9/senior-secondary-exploring-geography-geographical-skills-2024-rma-modular.html)
+    - [Senior Secondary Exploring Geography - Fieldwork skills (2024 RMA, Modular)](https://z-lib.fm/book/116635280/2e649d/senior-secondary-exploring-geography-fieldwork-skills-2024-rma-modular.html)
     </details>
 </details>
 <details><summary>Chinese History</summary>
