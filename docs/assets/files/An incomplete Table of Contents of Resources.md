@@ -534,6 +534,9 @@
     - 現代初中中國歷史（中一）：[Chinese History F1 Workbook Answers.pdf](https://github.com/user-attachments/files/17786732/Chinese.History.F1.Workbook.Answers.pdf)
     - 現代初中中國歷史（中二）：[Chinese History F2 Workbook Answers.pdf](https://github.com/user-attachments/files/17786733/Chinese.History.F2.Workbook.Answers.pdf)
     - 現代初中中國歷史（中三）：[Chinese History F3 Workbook Answers.pdf](https://github.com/user-attachments/files/17786734/Chinese.History.F3.Workbook.Answers.pdf)
+    - 現代初中中國歷史 - 作業（中一，教師版）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/de6d7ae1b6921ad3d16bc945ca92ed38)
+    - 現代初中中國歷史 - 作業（中二，教師版）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/faf307b2d2658f04ebff763e6084317b)
+    - 現代初中中國歷史 - 作業（中三，教師版）：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/257cbb0112bbf40968fbe1fd2c409cc7)
 
     </details>
 
@@ -541,12 +544,20 @@
 
     - <details><summary>Modified Notes (common_notes)</summary>
 
-        - [common_notes_F1_S_Mod.pdf](https://github.com/user-attachments/files/17786762/common_notes_F1_S_Mod.pdf)
-        - [common_notes_F2_S_Mod.pdf](https://github.com/user-attachments/files/17786799/common_notes_F2_S_Mod.pdf)
-        - [common_notes_F3_S_Mod.pdf](https://github.com/user-attachments/files/17786812/common_notes_F3_S_Mod.pdf)
-        - [F.1_Notes_Mod_For_Final_Exam.pdf](https://github.com/user-attachments/files/17786823/F.1_Notes_Mod_For_Final_Exam.pdf)
-        - [F.2 UT Chinese History Rev. WS.pdf](https://github.com/user-attachments/files/17786851/F.2.UT.Chinese.History.Rev.WS.pdf)
-        - [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://github.com/user-attachments/files/17786852/F.2_Notes_Mod_For_MYE_Prediction.pdf)
+        - [common_notes_F1_S_Mod.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786762/common_notes_F1_S_Mod.pdf)
+        - [common_notes_F2_S_Mod.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786799/common_notes_F2_S_Mod.pdf)
+        - [common_notes_F3_S_Mod.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786812/common_notes_F3_S_Mod.pdf)
+        - [F.1_Notes_Mod_For_Final_Exam.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786823/F.1_Notes_Mod_For_Final_Exam.pdf)
+        - [F.2 UT Chinese History Rev. WS.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786851/F.2.UT.Chinese.History.Rev.WS.pdf)
+        - [F.2_Notes_Mod_For_MYE_Prediction.pdf](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17786852/F.2_Notes_Mod_For_MYE_Prediction.pdf)
+
+        </details>
+
+    - <details><summary>common_notes</summary>
+
+        - [現代初中中國歷史 - 學生隨堂筆記（中一，教師版）](https://z-lib.fm/md5/c5987f5f5a91ef1ec785317eb57ec133)
+        - [現代初中中國歷史 - 學生隨堂筆記（中二，教師版）](https://z-lib.fm/md5/cf375d05c728d8c6b8b194abae089470)
+        - [現代初中中國歷史 - 學生隨堂筆記（中三，教師版）](https://z-lib.fm/md5/b8134068beed36f0457aee3d8cd65770)
 
         </details>
 
@@ -587,6 +598,22 @@
     - [HN3A_T10_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880137/HN3A_T10_SN_ST.Fill.in.the.Blanks.pdf)
     - [HN3B_T11_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880142/HN3B_T11_SN_ST.Fill.in.the.Blanks.pdf)
     - [HN3B_T12_SN_ST (Fill in the Blanks).pdf](https://github.com/user-attachments/files/17880144/HN3B_T12_SN_ST.Fill.in.the.Blanks.pdf)
+    </details>
+</details>
+<details><summary>BAFS</summary>
+
+- <details><summary>New Senior Secondary Business, Accounting and Financial Studies</summary>
+
+    - New Senior Secondary BAFS Business Management 1 (Compulsory)：[Link not yet available in Anna's Archive, find it in Library Genesis](https://libgen.li/edition.php?id=151103261)
+    - New Senior Secondary BAFS Business Management 2 (Elective)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/ca0c4c483a79cbaaf9834acfc44d4264)
+    - New Senior Secondary BAFS Business Management 3 (Elective)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/86df5b8b7544fdb3865d1b8b39d58577)
+    - New Senior Secondary BAFS Business Management 4 (Elective)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/e5576d727ba42b0caedb71020f3f50dc)
+    - New Senior Secondary BAFS Frank Wood's Accounting 1 (Compulsory)：[Link not yet available in Anna's Archive, find it in Library Genesis](https://libgen.li/edition.php?id=151103265)
+    - New Senior Secondary BAFS Frank Wood's Accounting 2 (Elective)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/1b4c6e96b54a7ab9bd743a479b167e84)
+    - New Senior Secondary BAFS Frank Wood's Accounting 3 (Elective)：[Link not yet available in Anna's Archive, find it in Z-Library](https://z-lib.fm/md5/5e4340252d164a3caabc2d4fd20228ba)
+    - New Senior Secondary BAFS Frank Wood's Accounting 4 (Elective)：[Link not yet available in Anna's Archive, find it in Library Genesis](https://libgen.li/edition.php?id=151103268)
+    - New Senior Secondary BAFS Teaching Powerpoint Link Generator: [Resource Link Generator](/tree/resource_link_gen.html)
+
     </details>
 </details>
 <details><summary>RE</summary>
